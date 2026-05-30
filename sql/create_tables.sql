@@ -17,3 +17,29 @@ CREATE TABLE IF NOT EXISTS transport_delays (
     reason VARCHAR(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+-- Phase 4: Cleaned train delay table
+
+DROP TABLE IF EXISTS cleaned_train_delays;
+
+CREATE TABLE cleaned_train_delays (
+    id TEXT,
+    line TEXT,
+    category INTEGER,
+    station TEXT,
+    state TEXT,
+    city TEXT,
+    zip DOUBLE PRECISION,
+    long DOUBLE PRECISION,
+    lat DOUBLE PRECISION,
+    arrival_plan TIMESTAMP,
+    departure_plan TIMESTAMP,
+    arrival_delay_minutes DOUBLE PRECISION,
+    departure_delay_minutes DOUBLE PRECISION,
+    arrival_delay_status TEXT,
+    departure_delay_status TEXT,
+    arrival_date DATE,
+    arrival_hour DOUBLE PRECISION,
+    departure_date DATE,
+    departure_hour INTEGER
+);
