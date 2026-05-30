@@ -79,6 +79,21 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
 
     return clean_df
 
+def validate_clean_data(df: pd.DataFrame) -> None:
+    """Validate important assumptions about the cleaned dataset."""
+
+    if df.empty:
+        raise ValueError("Cleaned dataset is empty.")
+
+    if df["id"].isna().sum() > 0:
+        raise ValueError("Cleaned dataset contains missing IDs.")
+
+    if df["departure_plan"].isna().sum() > 0:
+        raise ValueError("Cleaned dataset contains missing departure_plan values.")
+
+    if df.duplicated().sum() > 0:
+        raise ValueError("Cleaned dataset still contains duplicate rows.")
+
 
 def save_clean_data(df: pd.DataFrame, file_path: Path) -> None:
     """Save the cleaned dataset as a CSV file."""
@@ -86,43 +101,27 @@ def save_clean_data(df: pd.DataFrame, file_path: Path) -> None:
     df.to_csv(file_path, index=False)
 
 def main() -> None:
+    print("Loading raw data...")
     raw_df = load_raw_data(RAW_DATA_PATH)
 
-    print("Raw data loaded successfully")
-    print(f"Raw rows: {len(raw_df):,}")
-    print(f"Raw columns: {len(raw_df.columns)}")
-    print(raw_df.dtypes)
+    raw_row_count = len(raw_df)
+
+    print(f"Raw rows: {raw_row_count:,}")
+    print("Cleaning data...")
 
     clean_df = clean_data(raw_df)
+    validate_clean_data(clean_df)
 
-    columns_of_interest = [
-        "arrival_plan",
-        "arrival_date",
-        "arrival_hour",
-        "departure_plan",
-        "departure_date",
-        "departure_hour",
-        "arrival_delay_minutes",
-        "departure_delay_minutes",
-        "arrival_delay_status",
-        "departure_delay_status",
-    ]
+    clean_row_count = len(clean_df)
+    removed_duplicate_count = raw_row_count - clean_row_count
+    missing_arrival_plan_count = clean_df["arrival_plan"].isna().sum()
 
-    print("Selected columns preview:")
-    print(clean_df[columns_of_interest].head(10))
-    print(clean_df[columns_of_interest].dtypes)
-    print("Missing values in selected columns:")
-    print(clean_df[columns_of_interest].isna().sum())
-    print("Missing values in all clean columns:")
-    print(clean_df.isna().sum())
-    print("Duplicate rows:")
-    print(clean_df.duplicated().sum())
+    print(f"Clean rows: {clean_row_count:,}")
+    print(f"Duplicate rows removed: {removed_duplicate_count:,}")
+    print(f"Missing arrival_plan values kept: {missing_arrival_plan_count:,}")
 
-    print("Data selected successfully")
-    print(f"Clean rows: {len(clean_df):,}")
-    print(f"Clean columns: {list(clean_df.columns)}")
-    print(clean_df.head())
     save_clean_data(clean_df, PROCESSED_DATA_PATH)
+
     print(f"Clean data saved to: {PROCESSED_DATA_PATH}")
 
 
