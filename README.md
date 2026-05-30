@@ -6,7 +6,7 @@ The goal is to build an end-to-end pipeline that can ingest raw train delay data
 
 ## Current Phase
 
-Phase 4: Cleaned data loaded into PostgreSQL
+Phase 5: PostgreSQL query and analysis completed
 
 ## Tech Stack
 
@@ -223,6 +223,49 @@ Exit PostgreSQL:
 ```sql
 \q
 ```
+## Phase 5: PostgreSQL Query and Analysis
+
+In Phase 5, the cleaned train delay data is analyzed directly from PostgreSQL using SQL and Python.
+
+### What was done
+
+- Created `sql/analysis_queries.sql`
+- Created `src/analyze_postgres.py`
+- Queried the PostgreSQL table using SQL
+- Loaded SQL query results into pandas DataFrames
+- Printed analysis results in the terminal
+- Analyzed delays by train line, station, city, day, and hour
+
+### Analysis included
+
+- total number of records loaded into PostgreSQL
+- basic delay statistics such as average, minimum, and maximum delay
+- train lines with the highest average arrival delay
+- stations and cities with the highest average arrival delay
+- daily delay patterns during the sampled week
+- hourly delay patterns across the day
+
+### Run SQL queries directly
+
+```bash
+psql -d transport_delay_db -f sql/analysis_queries.sql
+```
+
+### Run Python analysis
+
+```bash
+python src/analyze_postgres.py
+```
+
+### Example insights
+
+```text
+Total records: 2,052,750
+Average arrival delay: 1.18 minutes
+Maximum arrival delay: 159 minutes
+Most delayed train line by average delay: RE25
+Highest average delay by hour: around 18:00
+```
 
 ## Git Workflow
 
@@ -233,8 +276,9 @@ Current completed branches:
 ```text
 phase-3-clean-data
 phase-4-load-postgres
+phase-5-query-analysis
 ```
 
 ## Next Phase
 
-Phase 5 will focus on querying and analyzing the PostgreSQL data using SQL and Python.
+Phase 6 will focus on building a simple dashboard or visual analytics layer for the PostgreSQL data.
