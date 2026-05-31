@@ -1,0 +1,1291 @@
+city,state,total_records,avg_arrival_delay,max_arrival_delay
+Steinau an der Straße,Hessen,265,6.17,63.0
+Flieden,Hessen,233,5.79,53.0
+Langenselbold,Hessen,475,5.28,95.0
+St. Goar,Rheinland-Pfalz,324,5.12,46.0
+Neuhof,Hessen,296,4.99,54.0
+Bad Soden-Salmünster,Hessen,323,4.98,53.0
+Prenzlau,Brandenburg,270,4.94,75.0
+Schlüchtern,Hessen,386,4.73,63.0
+Sonthofen,Bayern,473,4.7,41.0
+Rodenbach,Hessen,244,4.69,57.0
+Teisendorf,Bayern,297,4.67,64.0
+Parsberg,Bayern,190,4.65,23.0
+Varel ,Niedersachsen,264,4.46,38.0
+Wächtersbach,Hessen,437,4.43,62.0
+Beratzhausen,Bayern,190,4.39,23.0
+Weißenthurm,Rheinland-Pfalz,523,4.28,66.0
+Mülheim-Kärlich,Rheinland-Pfalz,541,4.28,66.0
+Jüchen,Nordrhein-Westfalen,430,4.26,78.0
+Übersee,Bayern,327,4.16,59.0
+Fischen,Bayern,449,4.05,55.0
+Oberwesel,Rheinland-Pfalz,561,4.05,53.0
+Bornheim,Nordrhein-Westfalen,732,3.97,69.0
+Pulheim-Stommeln,Nordrhein-Westfalen,537,3.94,77.0
+Brohl,Rheinland-Pfalz,297,3.85,51.0
+Hasselroth,Hessen,289,3.78,54.0
+Bacharach,Rheinland-Pfalz,466,3.78,34.0
+Remagen,Rheinland-Pfalz,1303,3.65,68.0
+Immenstadt,Bayern,936,3.63,38.0
+Gelnhausen,Hessen,936,3.61,53.0
+Pulheim,Nordrhein-Westfalen,534,3.55,77.0
+Bad Breisig,Rheinland-Pfalz,539,3.53,65.0
+Leutesdorf ,Rheinland-Pfalz,285,3.53,74.0
+Zwingenberg,Hessen,760,3.52,62.0
+Borken (Hessen),Hessen,312,3.5,79.0
+Sylt/ OT Morsum,Schleswig-Holstein,371,3.49,62.0
+Boppard,Rheinland-Pfalz,953,3.47,32.0
+Rommerskirchen,Nordrhein-Westfalen,517,3.47,76.0
+Osterhofen ,Bayern,274,3.47,53.0
+Bönen,Nordrhein-Westfalen,464,3.45,89.0
+Bernau a. Chiemsee,Bayern,326,3.43,59.0
+Ibbenbüren-Laggenbeck,Nordrhein-Westfalen,376,3.41,110.0
+Uffing am Staffelsee,Bayern,313,3.38,35.0
+Erndtebrück,Nordrhein-Westfalen,325,3.32,51.0
+Heddesheim,Baden-Württemberg,815,3.31,57.0
+Vilshofen an der Donau,Bayern,284,3.29,54.0
+St. Augustin,Nordrhein-Westfalen,360,3.28,76.0
+Oberndorf ,Baden-Württemberg,215,3.27,25.0
+Neustadt/Hessen,Hessen,382,3.26,60.0
+Hörstel,Nordrhein-Westfalen,386,3.24,110.0
+Triberg,Baden-Württemberg,164,3.23,72.0
+Ladenburg,Baden-Württemberg,1085,3.22,56.0
+Möckmühl,Baden-Württemberg,500,3.19,68.0
+Bad Bentheim,Niedersachsen,362,3.19,80.0
+Alsbach-Hähnlein,Hessen,540,3.18,40.0
+Hemsbach,Baden-Württemberg,1036,3.17,57.0
+Malsch,Baden-Württemberg,588,3.17,36.0
+Sinzig ,Rheinland-Pfalz,537,3.15,65.0
+Ennepetal,Nordrhein-Westfalen,720,3.15,88.0
+Pfaffenhofen a.d.Ilm,Bayern,539,3.14,69.0
+Wörth an der Isar,Bayern,273,3.13,40.0
+Stadtallendorf,Hessen,420,3.12,60.0
+Ubstadt-Weiher,Baden-Württemberg,588,3.12,36.0
+Hornberg,Baden-Württemberg,322,3.11,59.0
+Linz ,Rheinland-Pfalz,343,3.1,75.0
+Meschede,Nordrhein-Westfalen,534,3.08,64.0
+Luckenwalde,Brandenburg,474,3.03,53.0
+Laudenbach (Bergstr),Baden-Württemberg,818,3.03,57.0
+Schwelm,Nordrhein-Westfalen,1092,3.02,88.0
+Hirschhorn (Neckar),Hessen,500,3.01,59.0
+Rohrbach an der Ilm,Bayern,532,3.0,63.0
+Voerde (Niederrhein),Nordrhein-Westfalen,906,2.99,47.0
+Bickenbach,Hessen,759,2.98,41.0
+Neckargerach,Baden-Württemberg,496,2.96,59.0
+Bramsche,Niedersachsen,555,2.95,51.0
+Weinheim,Baden-Württemberg,1977,2.95,57.0
+Schwalmstadt-Treysa,Hessen,338,2.94,59.0
+Reutlingen,Baden-Württemberg,1343,2.93,48.0
+Treis-Karden,Rheinland-Pfalz,738,2.93,35.0
+Neufahrn in Niederbayern,Bayern,719,2.91,43.0
+Sylt/ OT Keitum,Schleswig-Holstein,363,2.89,61.0
+Groß Umstadt,Hessen,558,2.87,59.0
+Brühl,Nordrhein-Westfalen,951,2.87,69.0
+Bonn,Nordrhein-Westfalen,3618,2.84,76.0
+Lunden,Schleswig-Holstein,249,2.84,47.0
+Veitshöchheim,Bayern,264,2.84,39.0
+Friedrichstadt,Schleswig-Holstein,262,2.84,47.0
+Kirchhain,Hessen,469,2.82,59.0
+Wabern,Hessen,444,2.81,79.0
+Sangerhausen,Sachsen-Anhalt,515,2.8,60.0
+Bad Schönborn,Baden-Württemberg,616,2.8,32.0
+Renchen,Baden-Württemberg,386,2.8,82.0
+Schwindegg,Bayern,342,2.8,57.0
+Werne (a. d. Lippe),Nordrhein-Westfalen,280,2.79,38.0
+Werdohl,Nordrhein-Westfalen,473,2.78,62.0
+Hennigsdorf,Brandenburg,505,2.78,33.0
+Ibbenbüren,Nordrhein-Westfalen,500,2.78,110.0
+Landshut ,Bayern,1069,2.77,43.0
+Sulz ,Baden-Württemberg,229,2.76,23.0
+Seevetal,Niedersachsen,601,2.75,36.0
+Kreuztal,Nordrhein-Westfalen,701,2.74,66.0
+Markdorf,Baden-Württemberg,359,2.74,48.0
+Rottenburg ,Baden-Württemberg,405,2.74,23.0
+Landau a  d Isar,Bayern,274,2.73,36.0
+Andernach,Rheinland-Pfalz,906,2.73,58.0
+Cochem ,Rheinland-Pfalz,636,2.73,29.0
+Winsen (Luhe),Niedersachsen,517,2.72,43.0
+Niebüll,Schleswig-Holstein,551,2.72,64.0
+Heppenheim,Hessen,1038,2.71,43.0
+Memmingen,Bayern,994,2.71,39.0
+Dinslaken,Nordrhein-Westfalen,912,2.7,46.0
+Lübben,Brandenburg,621,2.68,52.0
+Greifswald,Mecklenburg-Vorpommern,314,2.67,81.0
+Pöcking,Bayern,814,2.66,32.0
+Lauffen (Neckar),Baden-Württemberg,562,2.66,40.0
+Röblingen am See,Sachsen-Anhalt,507,2.64,63.0
+Kirchheim am Neckar,Baden-Württemberg,562,2.64,40.0
+Anklam,Mecklenburg-Vorpommern,274,2.64,69.0
+Heidelberg-Wieblingen,Baden-Württemberg,1064,2.63,56.0
+Eschweiler,Nordrhein-Westfalen,546,2.63,52.0
+Riesa,Sachsen,586,2.63,54.0
+Lohr am Main,Bayern,402,2.62,40.0
+Bingen-Gaulsheim,Rheinland-Pfalz,305,2.61,30.0
+Westerstede-Ocholt,Niedersachsen,248,2.61,56.0
+Geilenkirchen,Nordrhein-Westfalen,1535,2.61,58.0
+Velten ,Brandenburg,492,2.61,25.0
+Starnberg,Bayern,2033,2.61,32.0
+Unkel,Rheinland-Pfalz,544,2.6,76.0
+Guntersblum,Rheinland-Pfalz,423,2.6,44.0
+Schierling,Bayern,469,2.59,33.0
+Züssow,Mecklenburg-Vorpommern,410,2.59,83.0
+Regensburg,Bayern,1528,2.59,44.0
+Bürstadt,Hessen,534,2.58,40.0
+Klanxbüll,Schleswig-Holstein,381,2.56,63.0
+Plettenberg,Nordrhein-Westfalen,512,2.56,67.0
+Lübbenau ,Brandenburg,609,2.56,51.0
+Kobern-Gondorf,Rheinland-Pfalz,721,2.55,33.0
+Lutherstadt Eisleben,Sachsen-Anhalt,429,2.53,62.0
+Bensheim,Hessen,1600,2.53,41.0
+Moers,Nordrhein-Westfalen,442,2.52,45.0
+München,Bayern,116829,2.52,136.0
+Budenheim,Rheinland-Pfalz,314,2.52,29.0
+Neckarsteinach,Hessen,503,2.5,58.0
+Sande,Niedersachsen,484,2.49,36.0
+Sinntal - Jossa,Hessen,161,2.49,36.0
+Biebesheim,Hessen,290,2.49,35.0
+Karlstadt (Main),Bayern,390,2.49,57.0
+Salzbergen,Niedersachsen,509,2.49,110.0
+Ampfing,Bayern,271,2.48,27.0
+Metzingen,Baden-Württemberg,1098,2.48,41.0
+Haslach,Baden-Württemberg,570,2.47,58.0
+Hürth-Kalscheuren,Nordrhein-Westfalen,767,2.46,69.0
+Bad Endorf ,Bayern,341,2.45,45.0
+Besigheim,Baden-Württemberg,561,2.45,41.0
+Leimen,Baden-Württemberg,676,2.45,38.0
+Schwerte ,Nordrhein-Westfalen,1052,2.44,89.0
+Nettetal,Nordrhein-Westfalen,252,2.44,60.0
+Haltern-Sythen,Nordrhein-Westfalen,476,2.43,31.0
+Karlstein am Main,Bayern,510,2.42,74.0
+Ingelheim,Rheinland-Pfalz,1005,2.41,51.0
+Voerde,Nordrhein-Westfalen,809,2.41,46.0
+Immendingen,Baden-Württemberg,564,2.4,56.0
+Efringen-Kirchen,Baden-Württemberg,342,2.4,55.0
+Wendlingen am Neckar,Baden-Württemberg,1254,2.39,36.0
+Ludwigshafen ,Rheinland-Pfalz,703,2.38,43.0
+Sigmaringen,Baden-Württemberg,432,2.38,54.0
+Leinefelde,Thüringen,450,2.36,30.0
+Kaufbeuren,Bayern,1047,2.36,36.0
+Holzwickede,Nordrhein-Westfalen,895,2.35,89.0
+Planegg,Bayern,828,2.35,36.0
+Eberswalde,Brandenburg,721,2.34,49.0
+Haßfurt,Bayern,536,2.34,38.0
+Zellingen,Bayern,414,2.34,57.0
+Viersen,Nordrhein-Westfalen,1184,2.33,60.0
+Limburgerhof,Rheinland-Pfalz,713,2.33,43.0
+Bullay,Rheinland-Pfalz,805,2.32,29.0
+Kamen-Methler,Nordrhein-Westfalen,515,2.32,41.0
+Soltau,Niedersachsen,591,2.32,41.0
+Probstzella,Thüringen,163,2.31,54.0
+Wolmirstedt,Sachsen-Anhalt,492,2.3,26.0
+Angermünde,Brandenburg,687,2.3,54.0
+Königswinter,Nordrhein-Westfalen,1020,2.29,76.0
+Gauting,Bayern,1610,2.29,36.0
+Leverkusen,Nordrhein-Westfalen,3654,2.29,88.0
+Prien am Chiemsee,Bayern,462,2.29,45.0
+Eberbach,Baden-Württemberg,690,2.28,59.0
+Gelsenkirchen,Nordrhein-Westfalen,2255,2.28,133.0
+Kamen,Nordrhein-Westfalen,815,2.28,41.0
+Pasewalk,Mecklenburg-Vorpommern,459,2.28,74.0
+Obertraubling,Bayern,572,2.28,43.0
+Kleinostheim,Bayern,508,2.28,74.0
+Bredstedt,Schleswig-Holstein,311,2.28,45.0
+Altena,Nordrhein-Westfalen,464,2.28,61.0
+Nierstein,Rheinland-Pfalz,478,2.27,46.0
+Heidelberg,Baden-Württemberg,7634,2.27,59.0
+Plattling,Bayern,676,2.26,54.0
+Spaichingen,Baden-Württemberg,397,2.26,24.0
+Dingolfing,Bayern,272,2.26,36.0
+Ludwigshafen,Rheinland-Pfalz,4285,2.25,52.0
+Lampertheim,Hessen,571,2.25,39.0
+Langenhorn,Schleswig-Holstein,373,2.25,45.0
+Bernau bei Berlin,Brandenburg,644,2.25,61.0
+Porta Westfalica,Nordrhein-Westfalen,656,2.24,56.0
+Köln-Mülheim,Nordrhein-Westfalen,2805,2.24,88.0
+Oschatz,Sachsen,326,2.23,48.0
+Oberhausen,Nordrhein-Westfalen,4329,2.22,66.0
+Kempten ,Bayern,994,2.22,35.0
+Bad Honnef,Nordrhein-Westfalen,1093,2.22,76.0
+Lünen (Horstmar),Nordrhein-Westfalen,682,2.22,38.0
+Grevenbroich,Nordrhein-Westfalen,826,2.21,77.0
+Stade,Niedersachsen,427,2.21,40.0
+Weidenthal,Rheinland-Pfalz,532,2.21,47.0
+Neckargemünd,Baden-Württemberg,2050,2.21,59.0
+Auggen,Baden-Württemberg,269,2.19,31.0
+Wuppertal-Ronsdorf,Nordrhein-Westfalen,670,2.19,42.0
+Falkensee,Brandenburg,2087,2.19,50.0
+Ebersbach,Sachsen,280,2.19,77.0
+Solingen,Nordrhein-Westfalen,1481,2.19,44.0
+Dorfen,Bayern,309,2.18,29.0
+Haßloch,Rheinland-Pfalz,496,2.18,53.0
+Ludwigsfelde,Brandenburg,624,2.18,61.0
+Tuttlingen,Baden-Württemberg,947,2.18,39.0
+Perkam,Bayern,611,2.17,42.0
+Bingen ,Rheinland-Pfalz,1169,2.17,35.0
+Suhl,Thüringen,329,2.17,55.0
+Kriftel,Hessen,592,2.16,28.0
+Schallstadt,Baden-Württemberg,453,2.16,56.0
+Mörfelden-Walldorf,Hessen,871,2.16,35.0
+Osthofen,Rheinland-Pfalz,546,2.15,47.0
+Unterlüß,Niedersachsen,280,2.15,27.0
+Vechelde,Niedersachsen,469,2.14,55.0
+Trebbin,Brandenburg,269,2.14,54.0
+Mengen,Baden-Württemberg,519,2.14,52.0
+Velbert-Neviges,Nordrhein-Westfalen,471,2.14,27.0
+Mannheim,Baden-Württemberg,8107,2.13,57.0
+Emmendingen,Baden-Württemberg,524,2.13,68.0
+Eitorf,Nordrhein-Westfalen,866,2.13,59.0
+Stelle,Niedersachsen,594,2.13,43.0
+Emmerich,Nordrhein-Westfalen,277,2.13,21.0
+Alfeld ,Niedersachsen,278,2.13,33.0
+Köln-Blumenberg,Nordrhein-Westfalen,1268,2.12,29.0
+Lennestadt,Nordrhein-Westfalen,992,2.12,66.0
+Lünen,Nordrhein-Westfalen,605,2.11,38.0
+Ahaus,Nordrhein-Westfalen,230,2.1,30.0
+Winterbach ,Baden-Württemberg,849,2.1,41.0
+Schifferstadt,Rheinland-Pfalz,1549,2.1,56.0
+Kirchseeon,Bayern,2029,2.1,31.0
+Bienenbüttel,Niedersachsen,298,2.1,39.0
+Koblenz,Rheinland-Pfalz,3442,2.1,60.0
+Ingolstadt,Bayern,2148,2.1,73.0
+Herne,Nordrhein-Westfalen,4057,2.09,49.0
+Alsheim,Rheinland-Pfalz,398,2.09,44.0
+Bühl ,Baden-Württemberg,627,2.09,83.0
+Heidingsfeld Ost,Bayern,303,2.09,22.0
+Nufringen,Baden-Württemberg,794,2.09,33.0
+Traunstein,Bayern,672,2.09,65.0
+Nackenheim,Rheinland-Pfalz,483,2.08,46.0
+Fürstenberg Havel,Brandenburg,239,2.08,40.0
+Oppenheim,Rheinland-Pfalz,542,2.08,46.0
+Mosbach,Baden-Württemberg,972,2.08,90.0
+Speyer,Rheinland-Pfalz,690,2.07,56.0
+Remshalden,Baden-Württemberg,1716,2.07,41.0
+Böblingen-Hulb,Baden-Württemberg,808,2.06,33.0
+Heilbad Heiligenstadt ,Thüringen,346,2.06,29.0
+Mosbach-Neckarelz,Baden-Württemberg,1025,2.05,66.0
+Peine,Niedersachsen,992,2.04,56.0
+Böhl-Iggelheim,Rheinland-Pfalz,363,2.03,53.0
+Rees,Nordrhein-Westfalen,307,2.03,21.0
+Castrop-Rauxel,Nordrhein-Westfalen,1041,2.03,44.0
+Gärtringen,Baden-Württemberg,811,2.03,34.0
+Ringsheim,Baden-Württemberg,428,2.03,58.0
+Troisdorf,Nordrhein-Westfalen,4385,2.02,77.0
+Recklinghausen-Süd,Nordrhein-Westfalen,991,2.02,49.0
+Lengerich,Nordrhein-Westfalen,394,2.01,32.0
+Plochingen,Baden-Württemberg,2037,2.01,43.0
+Greven,Nordrhein-Westfalen,733,2.0,56.0
+Seckach,Baden-Württemberg,383,2.0,48.0
+Iserlohn,Nordrhein-Westfalen,843,2.0,61.0
+Emsdetten,Nordrhein-Westfalen,728,2.0,56.0
+Wissen ,Rheinland-Pfalz,591,2.0,43.0
+Aßling ,Bayern,330,2.0,52.0
+Bad Hönningen,Rheinland-Pfalz,504,1.99,75.0
+Zorneding,Bayern,974,1.99,30.0
+Tostedt,Niedersachsen,517,1.99,41.0
+Osnabrück,Niedersachsen,2301,1.99,110.0
+Horb,Baden-Württemberg,634,1.99,35.0
+Feldafing,Bayern,814,1.98,31.0
+Schöngeising,Bayern,576,1.98,35.0
+Hofheim (Taunus),Hessen,1545,1.98,28.0
+Heitersheim,Baden-Württemberg,590,1.98,68.0
+Hamm ,Nordrhein-Westfalen,1841,1.97,90.0
+Schwetzingen,Baden-Württemberg,936,1.97,36.0
+Gemünden (Main),Bayern,560,1.97,40.0
+Balingen ,Baden-Württemberg,411,1.97,28.0
+Gräfelfing,Bayern,1608,1.96,35.0
+Münster-Hiltrup,Nordrhein-Westfalen,829,1.96,58.0
+Rosenheim,Bayern,932,1.96,140.0
+Dülmen,Nordrhein-Westfalen,1407,1.96,25.0
+Herbolzheim ,Baden-Württemberg,445,1.96,68.0
+Neustrelitz,Mecklenburg-Vorpommern,537,1.96,69.0
+Mahlberg-Orschweier,Baden-Württemberg,383,1.96,57.0
+Rottendorf,Bayern,625,1.95,42.0
+Baden-Baden,Baden-Württemberg,664,1.95,83.0
+Windeck,Nordrhein-Westfalen,2853,1.94,43.0
+Finnentrop,Nordrhein-Westfalen,618,1.94,66.0
+Oberschleißheim,Bayern,1581,1.94,33.0
+Drensteinfurt,Nordrhein-Westfalen,830,1.94,58.0
+Müllheim ,Baden-Württemberg,553,1.94,55.0
+Kahl (Main),Bayern,746,1.93,75.0
+Heide,Schleswig-Holstein,759,1.93,48.0
+Waren (Müritz),Mecklenburg-Vorpommern,263,1.93,62.0
+Mössingen,Baden-Württemberg,451,1.92,36.0
+Moosburg,Bayern,977,1.92,44.0
+Schwarzenbruck,Bayern,632,1.92,78.0
+Wittlich,Rheinland-Pfalz,743,1.92,30.0
+Kirchlengern,Nordrhein-Westfalen,660,1.92,48.0
+Kenzingen,Baden-Württemberg,487,1.92,69.0
+Norden,Niedersachsen,321,1.92,57.0
+Siegen,Nordrhein-Westfalen,1719,1.92,66.0
+Groß Rohrheim,Hessen,370,1.91,34.0
+Wuppertal-Barmen,Nordrhein-Westfalen,2569,1.91,54.0
+Riegel,Baden-Württemberg,537,1.9,58.0
+Türkenfeld,Bayern,504,1.9,35.0
+Gau Algesheim,Rheinland-Pfalz,612,1.9,36.0
+Erkelenz,Nordrhein-Westfalen,543,1.9,56.0
+Coesfeld,Nordrhein-Westfalen,698,1.89,32.0
+Puchheim,Bayern,896,1.89,36.0
+Eppstein,Hessen,1780,1.89,24.0
+Bodenheim,Rheinland-Pfalz,531,1.89,45.0
+Engen ,Baden-Württemberg,609,1.89,55.0
+Duisburg,Nordrhein-Westfalen,10661,1.88,157.0
+Bad Friedrichshall,Baden-Württemberg,1533,1.88,73.0
+Ehningen ,Baden-Württemberg,799,1.88,33.0
+Vaterstetten,Bayern,2044,1.88,31.0
+Mönchengladbach,Nordrhein-Westfalen,2878,1.88,78.0
+Wunstorf,Niedersachsen,984,1.87,56.0
+Melle,Niedersachsen,492,1.87,48.0
+Weißenburg (Bay),Bayern,365,1.87,44.0
+Bad Bevensen,Niedersachsen,299,1.87,38.0
+Winden,Rheinland-Pfalz,871,1.87,31.0
+Lambrecht,Rheinland-Pfalz,509,1.87,45.0
+Wangen,Baden-Württemberg,281,1.86,28.0
+Steinbach a Wald,Bayern,243,1.86,55.0
+Recklinghausen,Nordrhein-Westfalen,1153,1.86,50.0
+Meppen,Niedersachsen,255,1.86,54.0
+Esslingen am Neckar,Baden-Württemberg,4674,1.86,42.0
+Markt Schwaben,Bayern,1097,1.86,27.0
+Wannweil,Baden-Württemberg,473,1.86,31.0
+Übach-Palenberg,Nordrhein-Westfalen,820,1.86,57.0
+Ehingen (Donau),Baden-Württemberg,478,1.85,51.0
+Murnau,Bayern,517,1.85,39.0
+Wiesau ,Bayern,403,1.85,57.0
+Schwandorf,Bayern,952,1.84,41.0
+Tutzing,Bayern,1432,1.84,37.0
+Hückelhoven-Baal,Nordrhein-Westfalen,543,1.84,54.0
+Schönebeck (Elbe),Sachsen-Anhalt,950,1.84,35.0
+Beckum,Nordrhein-Westfalen,515,1.84,29.0
+Hamm (Heessen),Nordrhein-Westfalen,508,1.83,29.0
+Radolfzell ,Baden-Württemberg,1314,1.83,58.0
+Schweinfurt,Bayern,1752,1.83,52.0
+Zweibrücken,Rheinland-Pfalz,222,1.83,26.0
+Schweich,Rheinland-Pfalz,878,1.83,30.0
+Köln,Nordrhein-Westfalen,42809,1.83,88.0
+Grafing,Bayern,1810,1.82,53.0
+Neckarsulm,Baden-Württemberg,2397,1.81,107.0
+Langen,Hessen,1611,1.81,50.0
+Mühlhausen / Thüringen,Thüringen,401,1.81,27.0
+Heidesheim ,Rheinland-Pfalz,587,1.81,50.0
+Unterschleißheim,Bayern,3127,1.81,32.0
+Darmstadt,Hessen,4243,1.81,50.0
+Wülfrath,Nordrhein-Westfalen,386,1.81,27.0
+Ribnitz,Mecklenburg-Vorpommern,184,1.8,34.0
+Sömmerda,Thüringen,354,1.79,31.0
+Fürstenfeldbruck,Bayern,1919,1.79,36.0
+Unna,Nordrhein-Westfalen,1320,1.79,89.0
+Edermünde-Grifte,Hessen,300,1.79,30.0
+Rotenburg ,Niedersachsen,588,1.78,47.0
+Straubing,Bayern,598,1.78,41.0
+Erlangen,Bayern,2718,1.78,41.0
+Sulzbach (Murr),Baden-Württemberg,515,1.78,57.0
+Merzig (Saar),Saarland,618,1.78,50.0
+Göppingen,Baden-Württemberg,745,1.78,83.0
+Eilsleben (b Magdeburg),Sachsen-Anhalt,184,1.77,20.0
+Rockenhausen,Rheinland-Pfalz,361,1.76,37.0
+Landau,Rheinland-Pfalz,811,1.76,24.0
+Siegburg,Nordrhein-Westfalen,1823,1.76,58.0
+Remscheid-Lennep,Nordrhein-Westfalen,800,1.76,42.0
+Ergoldsbach,Bayern,479,1.76,44.0
+Mörfelden - Walldorf,Hessen,814,1.75,34.0
+Meckesheim,Baden-Württemberg,1198,1.75,34.0
+Nottuln-Appelhülsen,Nordrhein-Westfalen,491,1.75,22.0
+Hoppstädten-Weiersbach,Rheinland-Pfalz,396,1.74,37.0
+Bischofsheim,Hessen,1929,1.74,40.0
+Löhne,Nordrhein-Westfalen,948,1.74,57.0
+Hohenbrunn,Bayern,823,1.74,38.0
+Haar,Bayern,1171,1.74,31.0
+Rastatt,Baden-Württemberg,1246,1.74,83.0
+Allensbach,Baden-Württemberg,746,1.74,57.0
+Herford,Nordrhein-Westfalen,1395,1.74,59.0
+Remscheid,Nordrhein-Westfalen,954,1.73,42.0
+Forchheim (Oberfr),Bayern,1269,1.73,41.0
+Overath,Nordrhein-Westfalen,581,1.73,49.0
+Gransee,Brandenburg,263,1.73,37.0
+Ottobrunn,Bayern,822,1.73,38.0
+Seefeld,Bayern,798,1.73,44.0
+Hennef (Sieg),Nordrhein-Westfalen,2035,1.72,59.0
+Weßling (Oberbay),Bayern,831,1.72,44.0
+Sottrum,Niedersachsen,304,1.72,30.0
+Wustermark,Brandenburg,995,1.72,39.0
+Buchholz i.d.Nordheide,Niedersachsen,1021,1.71,36.0
+Gessertshausen,Bayern,501,1.71,52.0
+Leutenbach,Baden-Württemberg,851,1.71,41.0
+Selters,Hessen,248,1.71,41.0
+Kandel,Rheinland-Pfalz,737,1.71,24.0
+Rheda -Wiedenbrück,Nordrhein-Westfalen,634,1.71,29.0
+Diez,Rheinland-Pfalz,347,1.71,42.0
+Kerpen,Nordrhein-Westfalen,2488,1.71,52.0
+Ginsheim-Gustavsburg,Hessen,920,1.71,40.0
+Wuppertal,Nordrhein-Westfalen,14455,1.71,88.0
+Bad Oeynhausen,Nordrhein-Westfalen,665,1.7,64.0
+Marl-Sinsen,Nordrhein-Westfalen,831,1.7,49.0
+Hausach,Baden-Württemberg,612,1.69,57.0
+Gummersbach-Dieringhausen,Nordrhein-Westfalen,389,1.69,26.0
+Baiersdorf,Bayern,517,1.69,34.0
+Worms,Rheinland-Pfalz,1122,1.68,32.0
+Rottweil,Baden-Württemberg,560,1.68,25.0
+Mainz,Rheinland-Pfalz,5522,1.68,57.0
+Nürtingen,Baden-Württemberg,855,1.68,29.0
+Bad Münster am Stein,Rheinland-Pfalz,920,1.68,42.0
+Hanau,Hessen,4963,1.67,95.0
+Bad Zwischenahn,Niedersachsen,379,1.67,57.0
+Neuwied,Rheinland-Pfalz,875,1.66,74.0
+Flörsheim (Main),Hessen,504,1.66,24.0
+Hochspeyer,Rheinland-Pfalz,590,1.66,45.0
+Höhenkirchen-Siegertsbrun,Bayern,1656,1.66,39.0
+Bad Hersfeld,Hessen,424,1.66,55.0
+Lauda-Königshofen,Baden-Württemberg,652,1.65,42.0
+Petershausen (Oberbay),Bayern,842,1.65,71.0
+Bischofswerda,Sachsen,679,1.65,62.0
+Lahr ,Baden-Württemberg,512,1.65,39.0
+Pullach,Bayern,1758,1.64,29.0
+Postbauer-Heng,Bayern,632,1.64,77.0
+Warburg ,Nordrhein-Westfalen,334,1.64,45.0
+Marburg,Hessen,1233,1.64,59.0
+Diedorf,Bayern,553,1.63,53.0
+Annweiler am Trifels,Rheinland-Pfalz,348,1.63,40.0
+Bünde ,Nordrhein-Westfalen,689,1.63,49.0
+Königs Wusterhausen,Brandenburg,1287,1.63,47.0
+Hünfeld,Hessen,314,1.63,78.0
+Cham ,Bayern,455,1.62,51.0
+Hochheim (Main),Hessen,879,1.62,48.0
+Stadthagen,Niedersachsen,588,1.62,54.0
+Ansbach,Bayern,825,1.62,52.0
+Bleicherode,Thüringen,252,1.61,20.0
+Zapfendorf,Bayern,359,1.61,36.0
+Würzburg,Bayern,1886,1.61,57.0
+Gengenbach,Baden-Württemberg,510,1.61,57.0
+Rüsselsheim,Hessen,3139,1.61,42.0
+Ellingen (Bay),Bayern,319,1.6,44.0
+Haar b. München,Bayern,1116,1.6,31.0
+Albstadt,Baden-Württemberg,336,1.6,24.0
+Idar-Oberstein,Rheinland-Pfalz,537,1.6,39.0
+Calau ,Brandenburg,455,1.6,39.0
+Kelsterbach,Hessen,1230,1.6,31.0
+Weilheim ,Bayern,774,1.59,36.0
+Schwaan,Mecklenburg-Vorpommern,333,1.59,27.0
+Haltern am See,Nordrhein-Westfalen,1051,1.59,30.0
+Genthin,Sachsen-Anhalt,298,1.59,43.0
+Lahnstein,Rheinland-Pfalz,1124,1.59,39.0
+Stemshorn,Niedersachsen,144,1.59,15.0
+Fürth,Bayern,3280,1.59,40.0
+Heilbronn,Baden-Württemberg,1083,1.58,71.0
+Bobenheim,Rheinland-Pfalz,496,1.58,27.0
+Langerwehe,Nordrhein-Westfalen,899,1.58,52.0
+Raunheim,Hessen,1208,1.58,31.0
+Kaub,Rheinland-Pfalz,257,1.57,55.0
+Herborn,Hessen,538,1.57,27.0
+Waghäusel,Baden-Württemberg,553,1.57,38.0
+Waiblingen,Baden-Württemberg,3814,1.57,59.0
+Erkrath,Nordrhein-Westfalen,1519,1.56,37.0
+Kernen,Baden-Württemberg,856,1.56,30.0
+Ruhland,Brandenburg,753,1.56,26.0
+Erkrath-Hochdahl,Nordrhein-Westfalen,731,1.56,37.0
+Gütersloh,Nordrhein-Westfalen,771,1.56,44.0
+Seddin,Brandenburg,392,1.56,32.0
+Eching,Bayern,1577,1.55,33.0
+Staudernheim,Rheinland-Pfalz,546,1.55,41.0
+Schwäbisch Hall,Baden-Württemberg,575,1.55,55.0
+Altbach,Baden-Württemberg,877,1.55,39.0
+Bad Kreuznach,Rheinland-Pfalz,1056,1.55,45.0
+Völklingen,Saarland,1179,1.55,69.0
+Burgthann,Bayern,623,1.55,29.0
+Werder (Havel),Brandenburg,604,1.54,45.0
+Frankenthal,Rheinland-Pfalz,1727,1.54,29.0
+Köln-Weiden,Nordrhein-Westfalen,1252,1.54,39.0
+Kirchentellinsfurt,Baden-Württemberg,478,1.54,31.0
+Maintal,Hessen,1062,1.53,77.0
+Neubiberg,Bayern,820,1.53,38.0
+St. Michaelisdonn,Schleswig-Holstein,242,1.53,27.0
+Radebeul,Sachsen,1834,1.53,45.0
+Helmstedt,Niedersachsen,171,1.53,28.0
+Öhringen,Baden-Württemberg,760,1.52,110.0
+Reichenbach ,Sachsen,496,1.52,33.0
+Freising,Bayern,3684,1.52,46.0
+Saarburg,Rheinland-Pfalz,486,1.52,49.0
+Fellbach,Baden-Württemberg,1711,1.51,41.0
+Nordendorf,Bayern,629,1.51,41.0
+Geislingen (Steige),Baden-Württemberg,646,1.51,37.0
+Leer,Niedersachsen,517,1.51,50.0
+Gilching,Bayern,2602,1.51,31.0
+Offenbach (Main),Hessen,12828,1.51,93.0
+Bad Doberan,Mecklenburg-Vorpommern,280,1.51,90.0
+Landstuhl,Rheinland-Pfalz,792,1.51,50.0
+Scheeßel,Niedersachsen,323,1.51,21.0
+Murrhardt,Baden-Württemberg,524,1.5,57.0
+Wiesloch,Baden-Württemberg,959,1.5,36.0
+Mudersbach,Rheinland-Pfalz,1014,1.5,80.0
+Donaueschingen,Baden-Württemberg,907,1.5,58.0
+Otting,Bayern,247,1.5,20.0
+Olsberg,Nordrhein-Westfalen,442,1.5,60.0
+Burgau,Bayern,308,1.49,50.0
+Blaubeuren,Baden-Württemberg,468,1.49,50.0
+Tharandt,Sachsen,692,1.49,77.0
+Frankfurt (Main),Hessen,1283,1.49,32.0
+Neumarkt i. d. Opf.,Bayern,491,1.49,21.0
+Freilassing,Bayern,999,1.49,63.0
+Oelde,Nordrhein-Westfalen,515,1.49,29.0
+Ottersberg,Niedersachsen,303,1.48,19.0
+Bad Rappenau,Baden-Württemberg,518,1.48,43.0
+Staßfurt,Sachsen-Anhalt,288,1.48,36.0
+Schwaikheim,Baden-Württemberg,850,1.48,42.0
+Gensingen,Rheinland-Pfalz,574,1.48,24.0
+Wilster,Schleswig-Holstein,262,1.48,27.0
+Bad Ems,Rheinland-Pfalz,426,1.47,24.0
+Nienburg  ,Niedersachsen,274,1.47,44.0
+Oldenburg (Oldb),Niedersachsen,996,1.47,55.0
+Achern,Baden-Württemberg,625,1.47,83.0
+Mertingen,Bayern,638,1.47,42.0
+Weinstadt,Baden-Württemberg,2560,1.47,40.0
+Kronach,Bayern,326,1.46,55.0
+Leutkirch,Baden-Württemberg,326,1.46,31.0
+Mühlheim-Dietesheim,Hessen,821,1.46,40.0
+Neulußheim,Baden-Württemberg,443,1.46,37.0
+Nohfelden,Saarland,533,1.46,37.0
+Bad Staffelstein,Bayern,666,1.46,36.0
+Mülheim an der Ruhr,Nordrhein-Westfalen,4842,1.46,45.0
+Denzlingen,Baden-Württemberg,1020,1.46,68.0
+Schwäbisch Gmünd,Baden-Württemberg,657,1.45,39.0
+Langwedel,Niedersachsen,928,1.45,52.0
+Velbert-Langenberg,Nordrhein-Westfalen,676,1.45,27.0
+Wernau,Baden-Württemberg,580,1.45,34.0
+Babenhausen,Hessen,1089,1.45,31.0
+Bad Langensalza,Thüringen,449,1.45,28.0
+Senden-Bösensell,Nordrhein-Westfalen,505,1.45,22.0
+Witten,Nordrhein-Westfalen,1307,1.45,62.0
+Doberlug-Kirchhain,Brandenburg,490,1.45,133.0
+Engelskirchen,Nordrhein-Westfalen,489,1.45,26.0
+Brechen,Hessen,419,1.45,42.0
+Saarlouis,Saarland,727,1.45,40.0
+Stendal,Sachsen-Anhalt,1200,1.45,31.0
+Rösrath,Nordrhein-Westfalen,510,1.45,46.0
+Lauenbrück,Niedersachsen,323,1.45,21.0
+Winnenden,Baden-Württemberg,1369,1.44,58.0
+Röhrmoos,Bayern,861,1.44,39.0
+Langenfeld,Nordrhein-Westfalen,1538,1.44,26.0
+Coswig,Sachsen,1327,1.44,47.0
+Bad Sobernheim,Rheinland-Pfalz,552,1.44,41.0
+Philippsburg ,Baden-Württemberg,555,1.43,56.0
+Schwalbach a Ts,Hessen,605,1.43,22.0
+Vierkirchen,Bayern,709,1.43,36.0
+Dillingen (Saar),Saarland,824,1.43,40.0
+Haan-Gruiten,Nordrhein-Westfalen,1253,1.42,37.0
+Neustadt ,Rheinland-Pfalz,2114,1.42,57.0
+Leinfelden - Echterdingen,Baden-Württemberg,696,1.42,22.0
+Wesel,Nordrhein-Westfalen,732,1.42,23.0
+Limburg a. d. Lahn,Hessen,293,1.42,29.0
+Rheine,Nordrhein-Westfalen,874,1.42,110.0
+Gäufelden,Baden-Württemberg,438,1.42,26.0
+Lingen ,Niedersachsen,261,1.41,19.0
+Karlsruhe - Hagsfeld,Baden-Württemberg,419,1.41,36.0
+St. Ingbert,Saarland,1488,1.41,61.0
+Rastede,Niedersachsen,252,1.4,28.0
+Hagen,Nordrhein-Westfalen,2780,1.4,89.0
+Zittau,Sachsen,569,1.4,43.0
+Heusenstamm,Hessen,581,1.4,22.0
+Dallgow (b Berlin),Brandenburg,513,1.4,38.0
+Bietigheim-Bissingen,Baden-Württemberg,2659,1.4,73.0
+Meißen,Sachsen,1207,1.39,46.0
+Elmshorn,Schleswig-Holstein,1796,1.39,41.0
+Bückeburg,Niedersachsen,597,1.39,55.0
+Kevelaer,Nordrhein-Westfalen,423,1.38,108.0
+Buchloe,Bayern,1402,1.38,22.0
+Wurzen,Sachsen,593,1.38,48.0
+Kirchen (Sieg),Rheinland-Pfalz,633,1.37,81.0
+Finsterwalde ,Brandenburg,296,1.36,38.0
+Oftersheim,Baden-Württemberg,584,1.36,36.0
+Offenburg,Baden-Württemberg,1131,1.36,86.0
+Groß Gerau-Dornberg,Hessen,870,1.35,35.0
+Bondorf ,Baden-Württemberg,510,1.35,27.0
+Bretten,Baden-Württemberg,1591,1.35,133.0
+Dinkelscherben,Bayern,384,1.35,25.0
+Waakirchen,Bayern,807,1.35,36.0
+Eutingen im Gäu,Baden-Württemberg,432,1.35,20.0
+Kiefersfelden,Bayern,303,1.34,53.0
+Gundelfingen,Baden-Württemberg,574,1.34,24.0
+Dachau,Bayern,1411,1.33,71.0
+Kaufering,Bayern,1123,1.33,34.0
+Sandersleben,Sachsen-Anhalt,402,1.33,27.0
+Hattersheim am Main,Hessen,600,1.33,24.0
+Mering,Bayern,2311,1.33,45.0
+Schorndorf,Baden-Württemberg,1731,1.33,52.0
+Olching,Bayern,1009,1.33,32.0
+Idstein,Hessen,445,1.33,28.0
+Mosbach (Baden),Baden-Württemberg,631,1.33,60.0
+Meitingen,Bayern,679,1.33,41.0
+Frechen,Nordrhein-Westfalen,1156,1.33,35.0
+Haan ,Nordrhein-Westfalen,519,1.32,21.0
+Owschlag,Schleswig-Holstein,525,1.31,25.0
+Gronau (Westf),Nordrhein-Westfalen,490,1.31,27.0
+Könnern,Sachsen-Anhalt,508,1.31,21.0
+Biberach (Riß),Baden-Württemberg,741,1.31,55.0
+Röthenbach a. d. Pegnitz,Bayern,734,1.31,27.0
+Düsseldorf,Nordrhein-Westfalen,38262,1.31,157.0
+Maisach,Bayern,1892,1.31,33.0
+Lauf a. d. Pegnitz,Bayern,1133,1.31,39.0
+Ismaning,Bayern,692,1.31,43.0
+Kreiensen,Niedersachsen,533,1.3,37.0
+Torgau,Sachsen,479,1.3,31.0
+Esting,Bayern,1016,1.3,33.0
+Leichlingen,Nordrhein-Westfalen,534,1.3,24.0
+Bad Aibling,Bayern,369,1.3,30.0
+Wörth,Rheinland-Pfalz,1851,1.3,86.0
+Magdeburg,Sachsen-Anhalt,7691,1.3,66.0
+Jaderberg,Niedersachsen,264,1.3,43.0
+Rodgau-Weiskirchen,Hessen,790,1.29,21.0
+Bad Camberg,Hessen,406,1.29,28.0
+Großkrotzenburg,Hessen,496,1.29,75.0
+Bergen (Rügen),Mecklenburg-Vorpommern,258,1.29,32.0
+Marktredwitz,Bayern,763,1.29,49.0
+Treuchtlingen,Bayern,580,1.29,48.0
+Dormagen,Nordrhein-Westfalen,1030,1.29,39.0
+Willich,Nordrhein-Westfalen,455,1.29,28.0
+Schwabmünchen,Bayern,525,1.29,39.0
+Belzig,Brandenburg,341,1.28,40.0
+Bad Schussenried,Baden-Württemberg,351,1.28,38.0
+Biessenhofen,Bayern,635,1.28,24.0
+Weil  am Rhein,Baden-Württemberg,623,1.28,55.0
+Köln-Kalk,Nordrhein-Westfalen,2006,1.28,43.0
+Dietzenbach,Hessen,1333,1.27,22.0
+Ahlen ,Nordrhein-Westfalen,515,1.27,27.0
+Langgöns,Hessen,543,1.27,53.0
+Illertissen,Bayern,531,1.27,20.0
+Velgast,Mecklenburg-Vorpommern,287,1.27,34.0
+Köln-Lövenich,Nordrhein-Westfalen,1259,1.27,35.0
+Waldshut-Tiengen,Baden-Württemberg,963,1.27,24.0
+Stuttgart,Baden-Württemberg,41571,1.27,60.0
+Emden,Niedersachsen,459,1.27,72.0
+Veitsbronn,Bayern,654,1.26,34.0
+Egelsbach,Hessen,618,1.26,24.0
+Graben-Neudorf,Baden-Württemberg,935,1.26,56.0
+Einbeck,Niedersachsen,532,1.26,35.0
+Roßtal,Bayern,589,1.26,60.0
+Düren,Nordrhein-Westfalen,2042,1.26,52.0
+Hohenstein-Ernstthal,Sachsen,578,1.25,31.0
+Bad Lausick,Sachsen,515,1.25,30.0
+Wennigsen  ,Niedersachsen,563,1.25,58.0
+Obertshausen,Hessen,813,1.25,21.0
+Riedstadt,Hessen,572,1.25,34.0
+ Stutensee,Baden-Württemberg,418,1.25,36.0
+Maxhütte-Haidhof,Bayern,522,1.25,38.0
+Singen ,Baden-Württemberg,1319,1.25,55.0
+Konz,Rheinland-Pfalz,1091,1.25,49.0
+Freiberg ,Sachsen,655,1.25,77.0
+Leipheim,Bayern,581,1.25,48.0
+Grafrath,Bayern,729,1.25,34.0
+Eichenau (Oberbay),Bayern,880,1.25,35.0
+Neuhaus (Pegnitz),Bayern,669,1.24,22.0
+Haste,Niedersachsen,920,1.24,53.0
+Büchen,Schleswig-Holstein,659,1.24,26.0
+Kirn,Rheinland-Pfalz,562,1.24,40.0
+Leverkusen- Schlebusch,Nordrhein-Westfalen,549,1.24,22.0
+Witzenhausen,Hessen,430,1.24,28.0
+Arnsdorf,Sachsen,649,1.24,63.0
+Georgensgmünd,Bayern,411,1.24,43.0
+Sinsheim (Elsenz),Baden-Württemberg,728,1.23,35.0
+Schleswig,Schleswig-Holstein,517,1.23,26.0
+Poing,Bayern,1758,1.23,20.0
+Trier-Pfalzel,Rheinland-Pfalz,605,1.23,26.0
+Dombühl,Bayern,208,1.23,55.0
+Stadt Wehlen,Sachsen,355,1.23,17.0
+Bad Krozingen,Baden-Württemberg,757,1.23,67.0
+Nörten-Hardenberg,Niedersachsen,648,1.23,36.0
+Dorsten,Nordrhein-Westfalen,602,1.23,19.0
+Rheinfelden           ,Baden-Württemberg,599,1.23,34.0
+Schwerin,Mecklenburg-Vorpommern,1646,1.22,43.0
+Gladbeck,Nordrhein-Westfalen,951,1.22,29.0
+Leinfelden-Echterdingen,Baden-Württemberg,1055,1.22,22.0
+Kirchheim,Bayern,823,1.21,18.0
+Leipzig-Wahren,Sachsen,387,1.21,82.0
+Münster-Sprakel,Nordrhein-Westfalen,314,1.21,30.0
+Sersheim,Baden-Württemberg,763,1.21,21.0
+Mühlheim (Main),Hessen,822,1.21,40.0
+Freital,Sachsen,1664,1.21,71.0
+Böbingen (Rems),Baden-Württemberg,535,1.21,39.0
+Husum,Schleswig-Holstein,536,1.21,46.0
+Burg,Sachsen-Anhalt,400,1.21,67.0
+Neuss,Nordrhein-Westfalen,8326,1.21,61.0
+Unterhaching,Bayern,1976,1.2,32.0
+Zella-Mehlis,Thüringen,451,1.2,55.0
+Salzwedel,Sachsen-Anhalt,232,1.2,24.0
+Löwenberger Land-Löwenbe ,Brandenburg,439,1.2,38.0
+Germering,Bayern,1937,1.2,32.0
+Gehrden,Niedersachsen,512,1.2,58.0
+Sarstedt,Niedersachsen,790,1.2,30.0
+Feldkirchen,Bayern,826,1.2,17.0
+Sachsenheim,Baden-Württemberg,764,1.19,21.0
+Northeim ,Niedersachsen,793,1.19,36.0
+Leonberg,Baden-Württemberg,3988,1.19,35.0
+Nieder Wöllstadt,Hessen,600,1.19,19.0
+Ronnenberg  ,Niedersachsen,509,1.19,58.0
+Aulendorf,Baden-Württemberg,755,1.19,57.0
+Weißwasser,Sachsen,267,1.19,25.0
+Lörrach Schwarzwaldstraße,Baden-Württemberg,721,1.18,27.0
+Kissing,Bayern,1166,1.18,44.0
+Solingen-Ohligs,Nordrhein-Westfalen,2225,1.18,88.0
+Achim,Niedersachsen,1107,1.18,50.0
+Verden (Aller),Niedersachsen,456,1.18,47.0
+Geldern,Nordrhein-Westfalen,430,1.18,108.0
+Biberach ,Baden-Württemberg,684,1.18,39.0
+Roßlau (Elbe),Sachsen-Anhalt,839,1.18,39.0
+Krefeld,Nordrhein-Westfalen,3980,1.18,51.0
+Itzehoe,Schleswig-Holstein,438,1.18,27.0
+Appenweier,Baden-Württemberg,1014,1.17,83.0
+Papenburg ,Niedersachsen,249,1.17,51.0
+Linden,Hessen,544,1.16,52.0
+Wiesbaden,Hessen,5196,1.16,41.0
+Löbau,Sachsen,460,1.16,44.0
+Rodgau,Hessen,793,1.16,21.0
+Wetter ,Nordrhein-Westfalen,1090,1.16,36.0
+Münchberg,Bayern,431,1.16,39.0
+Dresden-Langebrück,Sachsen,573,1.15,41.0
+Kellmünz,Bayern,314,1.15,27.0
+Rodgau-Hainhausen,Hessen,790,1.15,20.0
+Radeberg,Sachsen,1000,1.15,63.0
+Bitterfeld-Wolfen ,Sachsen-Anhalt,575,1.14,37.0
+Weiden in der Oberpfalz,Bayern,875,1.14,58.0
+Bochum-Wattenscheid,Nordrhein-Westfalen,846,1.14,30.0
+Mindelheim,Bayern,476,1.14,20.0
+Königstein,Sachsen,512,1.14,23.0
+Bochum,Nordrhein-Westfalen,6251,1.14,47.0
+Greven-Reckenfeld,Nordrhein-Westfalen,358,1.14,30.0
+Schkeuditz,Sachsen,1174,1.13,84.0
+Senden,Bayern,671,1.13,22.0
+Stolberg (Rheinl),Nordrhein-Westfalen,1384,1.13,52.0
+Michendorf,Brandenburg,1209,1.13,33.0
+Gießen,Hessen,2166,1.13,59.0
+Altenburg,Thüringen,515,1.13,25.0
+Hebertshausen,Bayern,709,1.13,39.0
+Münster-Zentrum Nord,Nordrhein-Westfalen,712,1.13,30.0
+Bruchmühlbach-Miesau,Rheinland-Pfalz,350,1.13,51.0
+Villingen-Schwenningen,Baden-Württemberg,604,1.12,37.0
+Feucht,Bayern,1304,1.12,30.0
+Ochtrup,Nordrhein-Westfalen,313,1.12,9.0
+Pleinfeld,Bayern,507,1.12,43.0
+Breitengüßbach,Bayern,778,1.12,35.0
+Ottweiler (Saar),Saarland,753,1.11,35.0
+Wittenberge,Brandenburg,552,1.11,26.0
+Tübingen,Baden-Württemberg,1473,1.11,69.0
+Oberaudorf,Bayern,299,1.11,46.0
+Erkner,Brandenburg,603,1.11,43.0
+Ötigheim,Baden-Württemberg,416,1.11,28.0
+Wetzlar,Hessen,1007,1.11,58.0
+Korschenbroich,Nordrhein-Westfalen,1510,1.11,34.0
+Güsten,Sachsen-Anhalt,510,1.1,34.0
+Essen,Nordrhein-Westfalen,19975,1.1,159.0
+Neufahrn,Bayern,1657,1.1,32.0
+Bielefeld,Nordrhein-Westfalen,3169,1.1,49.0
+Heidenau,Sachsen,2933,1.1,30.0
+Bruchsal,Baden-Württemberg,2482,1.1,54.0
+Lichtenfels,Bayern,1111,1.1,56.0
+Rudolstadt (Thür),Thüringen,411,1.09,27.0
+Münster,Nordrhein-Westfalen,2024,1.09,134.0
+Nersingen,Bayern,585,1.09,48.0
+Gotha,Thüringen,494,1.09,120.0
+Rodgau-NiederRoden,Hessen,576,1.09,20.0
+Mayen,Rheinland-Pfalz,337,1.09,15.0
+Ochsenfurt,Bayern,403,1.09,13.0
+Heilsbronn,Bayern,701,1.09,61.0
+Oerlenbach,Bayern,775,1.09,38.0
+Ravensburg,Baden-Württemberg,793,1.09,38.0
+Oestrich-Winkel,Hessen,271,1.09,31.0
+Trier,Rheinland-Pfalz,2187,1.08,48.0
+Böblingen,Baden-Württemberg,2767,1.08,33.0
+Hauptstuhl,Rheinland-Pfalz,457,1.07,50.0
+Kressbronn,Baden-Württemberg,400,1.07,20.0
+Monsheim,Rheinland-Pfalz,540,1.07,24.0
+Aschaffenburg,Bayern,924,1.07,42.0
+Renningen,Baden-Württemberg,2278,1.06,34.0
+Wernigerode,Sachsen-Anhalt,265,1.06,55.0
+Delitzsch,Sachsen,834,1.06,39.0
+Germersheim,Rheinland-Pfalz,1441,1.06,56.0
+Bitterfeld-Wolfen,Sachsen-Anhalt,990,1.06,38.0
+Ludwigslust,Mecklenburg-Vorpommern,478,1.06,21.0
+St Egidien,Sachsen,619,1.06,117.0
+Illingen ,Baden-Württemberg,764,1.05,21.0
+Butzbach,Hessen,1873,1.05,53.0
+ Remchingen,Baden-Württemberg,587,1.05,24.0
+Hattersheim (Main),Hessen,926,1.05,24.0
+Köthen,Sachsen-Anhalt,568,1.05,21.0
+Seelze,Niedersachsen,1159,1.05,57.0
+Langweid ,Bayern,420,1.05,25.0
+Glauchau ,Sachsen,830,1.05,113.0
+Pirna,Sachsen,851,1.05,18.0
+Groß Gerau,Hessen,447,1.05,31.0
+Echterdingen,Baden-Württemberg,987,1.05,22.0
+Langen (Hess),Hessen,1014,1.04,23.0
+Vaihingen (Enz),Baden-Württemberg,1011,1.04,21.0
+Hersbruck,Bayern,1023,1.04,40.0
+Nürnberg,Bayern,12916,1.04,79.0
+Halberstadt,Sachsen-Anhalt,1193,1.04,62.0
+Donauwörth,Bayern,1058,1.04,22.0
+Ebensfeld,Bayern,416,1.04,34.0
+Schwarzenbek,Schleswig-Holstein,326,1.04,28.0
+Osterholz-Scharmbeck,Niedersachsen,466,1.03,61.0
+Türkheim ,Bayern,674,1.03,25.0
+Backnang,Baden-Württemberg,1931,1.03,58.0
+Fürstenwalde (Spree),Brandenburg,743,1.03,44.0
+Lengede,Niedersachsen,310,1.03,31.0
+Holzkirchen,Bayern,2055,1.03,39.0
+Bassum,Niedersachsen,542,1.03,27.0
+Neustadt (Dosse),Brandenburg,368,1.03,46.0
+Seelze OT Letter,Niedersachsen,632,1.03,57.0
+Eichstätt,Bayern,434,1.02,52.0
+Lüneburg,Niedersachsen,583,1.02,40.0
+Neuenmarkt,Bayern,652,1.02,43.0
+Ronnenberg,Niedersachsen,1662,1.02,58.0
+Bergheim,Nordrhein-Westfalen,433,1.02,21.0
+Preetz,Schleswig-Holstein,756,1.02,25.0
+ Dresden,Sachsen,263,1.02,22.0
+Hofgeismar,Hessen,697,1.02,105.0
+Brilon,Nordrhein-Westfalen,561,1.02,29.0
+Neustadt a Rübenberge,Niedersachsen,590,1.02,45.0
+Geltendorf,Bayern,1362,1.02,34.0
+Oberkochen,Baden-Württemberg,410,1.02,50.0
+ Nürnberg,Bayern,709,1.01,14.0
+Lörrach,Baden-Württemberg,1684,1.01,27.0
+Grenzach-Wyhlen,Baden-Württemberg,367,1.01,20.0
+Biederitz,Sachsen-Anhalt,545,1.01,30.0
+Erzhausen,Hessen,618,1.01,23.0
+Unterföhring,Bayern,917,1.01,34.0
+Borsdorf ,Sachsen,1174,1.01,78.0
+Dortmund,Nordrhein-Westfalen,16618,1.0,54.0
+Braubach,Rheinland-Pfalz,261,1.0,40.0
+Geisenheim,Hessen,267,1.0,56.0
+Cölbe,Hessen,670,1.0,57.0
+Rathenow,Brandenburg,463,1.0,49.0
+Neu Ulm,Bayern,1176,1.0,47.0
+Friedberg (Hessen),Hessen,1891,1.0,58.0
+Kirchheim unter Teck,Baden-Württemberg,972,1.0,34.0
+Apen,Niedersachsen,216,1.0,40.0
+Erftstadt,Nordrhein-Westfalen,527,0.99,29.0
+Osterburken,Baden-Württemberg,614,0.99,67.0
+Gröbers,Sachsen-Anhalt,468,0.99,84.0
+Kall,Nordrhein-Westfalen,539,0.99,60.0
+Pegnitz,Bayern,717,0.99,22.0
+Benningen am Neckar,Baden-Württemberg,555,0.99,30.0
+Kitzingen,Bayern,372,0.99,25.0
+Neudietendorf,Thüringen,1116,0.99,59.0
+Reichenbach (Fils),Baden-Württemberg,507,0.99,19.0
+Bergisch Gladbach,Nordrhein-Westfalen,1022,0.98,27.0
+Bohmte,Niedersachsen,274,0.98,15.0
+Mechernich,Nordrhein-Westfalen,512,0.98,58.0
+Gunzenhausen,Bayern,379,0.98,28.0
+Wedemark,Niedersachsen,1494,0.98,37.0
+Kißlegg,Baden-Württemberg,475,0.97,24.0
+Herbertingen,Baden-Württemberg,524,0.97,52.0
+Lippstadt,Nordrhein-Westfalen,692,0.97,19.0
+Bad Kleinen,Mecklenburg-Vorpommern,676,0.97,30.0
+Barnstorf,Niedersachsen,276,0.97,12.0
+Neumünster,Schleswig-Holstein,1114,0.97,19.0
+Hilden,Nordrhein-Westfalen,631,0.97,32.0
+Salzkotten,Nordrhein-Westfalen,518,0.97,27.0
+Lehrte,Niedersachsen,2468,0.96,58.0
+Werl,Nordrhein-Westfalen,440,0.96,58.0
+Meckenbeuren,Baden-Württemberg,917,0.96,38.0
+Zossen,Brandenburg,1030,0.95,32.0
+Plaue,Thüringen,572,0.95,53.0
+Schwabach,Bayern,1762,0.95,41.0
+Neu Isenburg,Hessen,1197,0.94,24.0
+Jüterbog,Brandenburg,480,0.94,53.0
+Sindelfingen,Baden-Württemberg,564,0.94,25.0
+Rodgau-Dudenhofen (b Offe,Hessen,793,0.94,21.0
+Pommelsbrunn,Bayern,458,0.94,19.0
+Güstrow,Mecklenburg-Vorpommern,1345,0.94,77.0
+Konstanz,Baden-Württemberg,1590,0.94,57.0
+Schwentinental,Schleswig-Holstein,586,0.94,25.0
+Bordesholm,Schleswig-Holstein,520,0.94,15.0
+Otterfing,Bayern,552,0.94,24.0
+Laupheim,Baden-Württemberg,681,0.93,39.0
+Elze ,Niedersachsen,540,0.93,32.0
+Frankfurt am Main,Hessen,67029,0.93,93.0
+Großenhain,Sachsen,434,0.93,34.0
+Dresden,Sachsen,18008,0.93,70.0
+Titisee-Neustadt,Baden-Württemberg,486,0.93,22.0
+Neusäß,Bayern,1117,0.93,36.0
+Herzogenrath,Nordrhein-Westfalen,2897,0.93,57.0
+Neuzelle,Brandenburg,266,0.93,45.0
+Soest,Nordrhein-Westfalen,913,0.93,19.0
+Raubling,Bayern,307,0.93,46.0
+Uhingen,Baden-Württemberg,511,0.93,18.0
+Barsinghausen,Niedersachsen,1566,0.92,41.0
+Rückersdorf,Bayern,406,0.92,19.0
+Niefern,Baden-Württemberg,536,0.92,30.0
+Süßen,Baden-Württemberg,490,0.92,21.0
+Syke,Niedersachsen,668,0.92,21.0
+Minden,Nordrhein-Westfalen,681,0.91,55.0
+Hockenheim,Baden-Württemberg,620,0.91,35.0
+Korntal,Baden-Württemberg,1540,0.91,28.0
+Bottrop,Nordrhein-Westfalen,1096,0.9,29.0
+Eschborn,Hessen,3573,0.9,41.0
+Karlsruhe,Baden-Württemberg,6208,0.9,114.0
+Delmenhorst,Niedersachsen,1297,0.9,55.0
+Celle,Niedersachsen,542,0.9,28.0
+Gablingen,Bayern,418,0.89,25.0
+Rövershagen,Mecklenburg-Vorpommern,405,0.89,30.0
+Neustadt ,Baden-Württemberg,380,0.89,23.0
+Bodenwöhr,Bayern,258,0.89,23.0
+Neukieritzsch,Sachsen,1001,0.89,27.0
+Dreieich,Hessen,1447,0.89,23.0
+Bad Nauheim,Hessen,818,0.89,52.0
+Bad Säckingen,Baden-Württemberg,481,0.89,19.0
+Niederwiesa,Sachsen,802,0.88,37.0
+Weißenfels,Sachsen-Anhalt,1003,0.88,40.0
+Ludwigsburg,Baden-Württemberg,3450,0.88,74.0
+Ettlingen,Baden-Württemberg,501,0.88,29.0
+Nordhausen,Thüringen,497,0.88,24.0
+St. Wendel,Saarland,1147,0.88,36.0
+Rangsdorf,Brandenburg,374,0.87,22.0
+Weimar (Lahn),Hessen,492,0.87,57.0
+Creußen (Oberfr),Bayern,286,0.87,38.0
+Hallstadt (b Bamberg),Bayern,521,0.87,10.0
+Trier-Ehrang,Rheinland-Pfalz,714,0.86,22.0
+Mühlacker,Baden-Württemberg,1444,0.86,31.0
+Thaleischweiler-Fröschen,Rheinland-Pfalz,663,0.86,35.0
+Flöha,Sachsen,935,0.86,76.0
+Görlitz,Sachsen,608,0.86,27.0
+Speichersdorf,Bayern,650,0.86,24.0
+Heidenheim,Baden-Württemberg,528,0.86,39.0
+Welver,Nordrhein-Westfalen,474,0.86,21.0
+Bad Vilbel,Hessen,3029,0.86,37.0
+Armsheim,Rheinland-Pfalz,695,0.85,33.0
+Friedberg (Hess.),Hessen,597,0.85,19.0
+Potsdam,Brandenburg,6404,0.85,49.0
+Vienenburg,Niedersachsen,1035,0.85,54.0
+Hallbergmoos,Bayern,822,0.85,41.0
+Urbach (b Schorndorf),Baden-Württemberg,533,0.85,52.0
+Leinfelden - Echterlingen,Baden-Württemberg,1048,0.85,22.0
+Geseke,Nordrhein-Westfalen,472,0.84,19.0
+Geithain,Sachsen,635,0.84,30.0
+Waldkirch,Baden-Württemberg,483,0.84,18.0
+Ditzingen,Baden-Württemberg,1114,0.84,27.0
+Gröbenzell,Bayern,1012,0.84,32.0
+Oberursel (Taunus),Hessen,1904,0.84,26.0
+Kirchzarten - Himmelreich,Baden-Württemberg,615,0.84,36.0
+Hinterzarten,Baden-Württemberg,501,0.84,21.0
+Laatzen,Niedersachsen,286,0.83,24.0
+Bad Nenndorf,Niedersachsen,511,0.83,40.0
+Jünkerath,Rheinland-Pfalz,524,0.83,32.0
+Giengen (Brenz),Baden-Württemberg,409,0.83,22.0
+Gößnitz,Thüringen,600,0.82,28.0
+Durmersheim,Baden-Württemberg,453,0.81,22.0
+Rheinstetten,Baden-Württemberg,445,0.81,22.0
+Alzey,Rheinland-Pfalz,589,0.81,25.0
+Günzburg,Bayern,686,0.81,49.0
+Stuttgart-Feuerbach,Baden-Württemberg,2656,0.8,39.0
+Stuttgard-Nord,Baden-Württemberg,2654,0.8,39.0
+Senftenberg,Brandenburg,1454,0.8,29.0
+Werdau,Sachsen,548,0.8,19.0
+Kulmbach,Bayern,589,0.8,20.0
+Lollar,Hessen,441,0.8,56.0
+Bobingen,Bayern,871,0.79,40.0
+Bautzen,Sachsen,478,0.79,26.0
+Bützow,Mecklenburg-Vorpommern,362,0.79,27.0
+Betzdorf ,Rheinland-Pfalz,903,0.78,81.0
+Haiger,Hessen,488,0.78,28.0
+Falkenberg (Elster),Brandenburg,588,0.78,31.0
+ Freinsheim,Rheinland-Pfalz,636,0.78,6.0
+Plüderhausen,Baden-Württemberg,527,0.78,52.0
+Halle,Sachsen-Anhalt,481,0.78,23.0
+Eislingen (Fils),Baden-Württemberg,479,0.78,21.0
+Aachen,Nordrhein-Westfalen,5393,0.77,53.0
+Taucha,Sachsen,703,0.77,34.0
+Hilden ,Nordrhein-Westfalen,746,0.76,32.0
+Baunatal-Guntershausen,Hessen,771,0.76,29.0
+Brandenburg an der Havel,Brandenburg,582,0.76,43.0
+Fulda,Hessen,632,0.76,84.0
+Nördlingen,Bayern,235,0.76,15.0
+Taufkirchen,Bayern,965,0.76,31.0
+Dieburg,Hessen,545,0.75,20.0
+Brannenburg,Bayern,307,0.75,49.0
+Petersaurach,Bayern,844,0.75,54.0
+Eltville,Hessen,352,0.75,28.0
+Coburg,Bayern,594,0.75,30.0
+Bietigheim,Baden-Württemberg,445,0.75,22.0
+Burgkunstadt,Bayern,555,0.75,21.0
+Weimar,Thüringen,1185,0.75,45.0
+Ebersbach (Fils),Baden-Württemberg,518,0.74,19.0
+Großkorbetha,Sachsen-Anhalt,791,0.74,39.0
+Weilburg,Hessen,617,0.74,58.0
+Hude,Niedersachsen,1035,0.74,49.0
+Wörrstadt,Rheinland-Pfalz,515,0.74,35.0
+Sulzbach (Saar),Saarland,497,0.74,26.0
+Karben,Hessen,1342,0.73,19.0
+Langenhagen,Niedersachsen,3603,0.73,34.0
+Leipzig Zentrum,Sachsen,3321,0.73,81.0
+Neustadt (Aisch),Bayern,458,0.73,24.0
+Biblis,Hessen,904,0.73,35.0
+Glückstadt,Schleswig-Holstein,411,0.73,29.0
+Nauen,Brandenburg,791,0.72,19.0
+Büchenbach,Bayern,564,0.72,22.0
+Oberhaching,Bayern,2052,0.72,47.0
+Großbothen,Sachsen,204,0.71,12.0
+Augsburg-Göggingen,Bayern,682,0.71,24.0
+Lübeck,Schleswig-Holstein,1935,0.71,24.0
+Ahrensburg,Schleswig-Holstein,1543,0.71,24.0
+Klettgau,Baden-Württemberg,483,0.71,24.0
+Neunkirchen a Sand,Bayern,523,0.71,40.0
+Friedrichsdorf,Hessen,953,0.7,25.0
+Crailsheim,Baden-Württemberg,388,0.7,58.0
+Rüdesheim,Hessen,441,0.7,56.0
+Reinfeld (Holstein),Schleswig-Holstein,556,0.7,17.0
+Hochstadt-Marktzeuln,Bayern,835,0.7,35.0
+Nordstemmen,Niedersachsen,530,0.7,30.0
+Rendsburg,Schleswig-Holstein,598,0.69,26.0
+Naumburg ,Sachsen-Anhalt,1029,0.69,27.0
+Augsburg,Bayern,7514,0.69,83.0
+Lorch (Württ),Baden-Württemberg,532,0.69,53.0
+Nidderau,Hessen,742,0.69,53.0
+Hannover,Niedersachsen,12175,0.69,57.0
+Bayreuth,Bayern,996,0.68,38.0
+Gallmersgarten,Bayern,520,0.68,35.0
+Oranienburg,Brandenburg,2088,0.68,39.0
+Sauerlach,Bayern,714,0.68,24.0
+Horneburg,Niedersachsen,582,0.68,39.0
+Bamberg,Bayern,1502,0.68,35.0
+Haldensleben,Sachsen-Anhalt,272,0.68,11.0
+Zwickau ,Sachsen,1246,0.67,32.0
+Neunkirchen (Saar),Saarland,1909,0.67,35.0
+Königslutter,Niedersachsen,292,0.67,27.0
+Jena,Thüringen,2306,0.66,33.0
+Steinen,Baden-Württemberg,640,0.66,18.0
+Kirchzarten,Baden-Württemberg,609,0.66,34.0
+Schwarzenfeld ,Bayern,304,0.66,13.0
+Grünstadt,Rheinland-Pfalz,608,0.66,10.0
+ Pforzheim,Baden-Württemberg,540,0.66,28.0
+Langenau (Württ),Baden-Württemberg,492,0.66,22.0
+Hattingen ,Nordrhein-Westfalen,554,0.66,16.0
+Wernberg,Bayern,304,0.65,12.0
+Emskirchen,Bayern,451,0.65,24.0
+Ebersberg (Oberbay),Bayern,536,0.64,11.0
+Neupetershain,Brandenburg,291,0.64,23.0
+Cottbus,Brandenburg,974,0.64,47.0
+Freiburg,Baden-Württemberg,2786,0.64,67.0
+Merseburg,Sachsen-Anhalt,665,0.64,43.0
+Hermsdorf-Klosterlausnitz,Thüringen,436,0.63,30.0
+Lindau,Bayern,565,0.63,33.0
+Herrenberg,Baden-Württemberg,1057,0.63,26.0
+Markkleeberg,Sachsen,3046,0.63,29.0
+Tamm ,Baden-Württemberg,691,0.63,38.0
+Tornesch,Schleswig-Holstein,694,0.62,12.0
+Arnstadt,Thüringen,885,0.62,58.0
+Neukirchen b Sulzbach-Ro,Bayern,462,0.61,17.0
+Bad Schandau,Sachsen,477,0.61,22.0
+Oberkotzau,Bayern,923,0.6,38.0
+Rüdesheim am Rhein,Hessen,383,0.6,56.0
+Bad Kösen,Sachsen-Anhalt,549,0.6,24.0
+Kaiserslautern,Rheinland-Pfalz,1147,0.6,25.0
+Oberursel,Hessen,925,0.59,25.0
+Mockrehna,Sachsen,407,0.59,21.0
+Guben,Brandenburg,348,0.59,35.0
+Prisdorf,Schleswig-Holstein,694,0.59,12.0
+Zeitz,Sachsen-Anhalt,378,0.59,32.0
+Neu-Eichenberg,Hessen,762,0.59,27.0
+Uetze,Niedersachsen,318,0.59,13.0
+Roth,Bayern,910,0.59,55.0
+Leipzig,Sachsen,17669,0.58,82.0
+Eisenhüttenstadt,Brandenburg,366,0.58,44.0
+Twistringen,Niedersachsen,366,0.58,18.0
+Weyhe,Niedersachsen,542,0.58,16.0
+Niedernhausen,Hessen,953,0.58,43.0
+Gera,Thüringen,1921,0.58,38.0
+Schiffweiler,Saarland,486,0.58,27.0
+Salzgitter -Ringelheim,Niedersachsen,504,0.57,27.0
+Bad Malente-Gremsmühlen,Schleswig-Holstein,543,0.57,22.0
+Homburg (Saar),Saarland,943,0.57,51.0
+Blankenfelde ,Brandenburg,397,0.57,23.0
+Erfurt,Thüringen,2606,0.57,89.0
+Gottenheim,Baden-Württemberg,808,0.56,30.0
+Fredersdorf ,Brandenburg,892,0.55,23.0
+Hohen Neuendorf OTBorgsdo,Brandenburg,900,0.54,19.0
+Friedrichshafen,Baden-Württemberg,1301,0.54,28.0
+Amberg,Bayern,327,0.54,30.0
+Saarbrücken,Saarland,5576,0.54,67.0
+Kahla (Thür),Thüringen,520,0.54,20.0
+Bad Dürkheim,Rheinland-Pfalz,573,0.54,10.0
+Grünberg,Hessen,354,0.54,17.0
+Immenhausen,Hessen,479,0.53,106.0
+Marbach am Neckar,Baden-Württemberg,407,0.53,43.0
+Altenbeken,Nordrhein-Westfalen,848,0.53,46.0
+Goslar / Oker,Niedersachsen,448,0.53,26.0
+Paderborn,Nordrhein-Westfalen,899,0.53,21.0
+Bad Münder am Deister,Niedersachsen,496,0.53,30.0
+Meckenheim,Nordrhein-Westfalen,1436,0.53,28.0
+Eilenburg,Sachsen,1236,0.53,24.0
+Aschersleben,Sachsen-Anhalt,527,0.53,24.0
+Burgdorf,Niedersachsen,526,0.52,9.0
+Eutin,Schleswig-Holstein,613,0.52,23.0
+Goslar,Niedersachsen,783,0.51,24.0
+Springe,Niedersachsen,1593,0.51,31.0
+Grimma,Sachsen,288,0.51,12.0
+Wrist,Schleswig-Holstein,466,0.51,16.0
+Kehl,Baden-Württemberg,317,0.5,10.0
+Buxtehude,Niedersachsen,916,0.5,50.0
+Waßmannsdorf,Brandenburg,1745,0.49,32.0
+Dillingen,Bayern,319,0.49,11.0
+Döbeln,Sachsen,337,0.49,30.0
+Hann.Münden-Hedemünden,Niedersachsen,319,0.49,20.0
+Grebenstein,Hessen,483,0.48,105.0
+Mittweida,Sachsen,357,0.48,40.0
+Lage ,Nordrhein-Westfalen,497,0.48,15.0
+Hattenhofen,Bayern,330,0.48,40.0
+Ascheberg (Holstein),Schleswig-Holstein,589,0.48,23.0
+Horka,Sachsen,272,0.48,27.0
+Montabaur,Rheinland-Pfalz,198,0.48,26.0
+Kassel,Hessen,3789,0.47,109.0
+Großheringen,Thüringen,279,0.47,14.0
+Bad Pyrmont,Niedersachsen,307,0.47,29.0
+Bernau,Brandenburg,911,0.47,31.0
+Burgdorf ,Niedersachsen,622,0.46,9.0
+Bad Kissingen,Bayern,304,0.46,27.0
+Nidda,Hessen,524,0.46,10.0
+Birkenwerder,Brandenburg,1418,0.45,20.0
+Dillenburg,Hessen,554,0.45,28.0
+Mammendorf,Bayern,712,0.45,43.0
+Pinneberg,Schleswig-Holstein,3125,0.45,21.0
+Panketal,Brandenburg,1821,0.44,31.0
+Bargteheide,Schleswig-Holstein,445,0.44,19.0
+Strausberg,Brandenburg,1429,0.44,27.0
+Friedrichsdorf (Taunus),Hessen,994,0.44,41.0
+Schönefeld,Brandenburg,3021,0.44,38.0
+Burgwedel,Niedersachsen,284,0.43,25.0
+Hohen Neuendorf,Brandenburg,2336,0.43,20.0
+Vellmar,Hessen,1968,0.43,107.0
+Aichach,Bayern,363,0.42,10.0
+Berlin,Berlin,334002,0.42,132.0
+Bad Neustadt (Saale),Bayern,322,0.42,27.0
+Gifhorn,Niedersachsen,588,0.41,57.0
+Chemnitz ,Sachsen,2095,0.4,37.0
+Stralsund,Mecklenburg-Vorpommern,507,0.4,21.0
+Bebra,Hessen,788,0.4,30.0
+Schopfheim,Baden-Württemberg,493,0.4,15.0
+Kornwestheim,Baden-Württemberg,1404,0.4,38.0
+Mittenwald,Bayern,237,0.39,13.0
+Karlsruhe - Mühlburg,Baden-Württemberg,191,0.39,10.0
+Rostock-Marienehe,Mecklenburg-Vorpommern,1383,0.39,13.0
+Mahlow,Brandenburg,910,0.39,17.0
+Halle ,Sachsen-Anhalt,2103,0.38,116.0
+Bernburg,Sachsen-Anhalt,418,0.38,18.0
+Zeuthen,Brandenburg,1229,0.38,14.0
+Oebisfelde,Sachsen-Anhalt,432,0.38,25.0
+Bad Oldesloe,Schleswig-Holstein,800,0.38,18.0
+Holzminden,Niedersachsen,208,0.37,30.0
+Elsterwerda,Brandenburg,426,0.37,19.0
+Wolfsburg,Niedersachsen,1325,0.37,35.0
+Bad Reichenhall,Bayern,319,0.37,12.0
+Böhlen,Sachsen,542,0.36,17.0
+Bad Homburg,Hessen,1044,0.36,25.0
+Plauen ,Sachsen,496,0.36,16.0
+Rostock,Mecklenburg-Vorpommern,11790,0.35,19.0
+Hamburg,Hamburg,154840,0.35,42.0
+Neuburg an der Donau,Bayern,321,0.35,8.0
+Asperg,Baden-Württemberg,584,0.34,24.0
+Ratzeburg,Schleswig-Holstein,295,0.34,13.0
+Aalen,Baden-Württemberg,813,0.33,15.0
+Emmerthal,Niedersachsen,338,0.33,29.0
+Bremen,Bremen,9079,0.33,51.0
+Herzberg am Harz,Niedersachsen,376,0.32,24.0
+Guxhagen,Hessen,716,0.32,19.0
+Markkleeberg OT Gaschwitz,Sachsen,786,0.31,29.0
+Lutherstadt Wittenberg,Sachsen-Anhalt,445,0.31,10.0
+Freudenstadt,Baden-Württemberg,536,0.31,15.0
+Sonneberg (Thür),Thüringen,354,0.31,24.0
+Eckernförde,Schleswig-Holstein,380,0.31,25.0
+Hoppegarten,Brandenburg,2285,0.3,18.0
+Diepholz,Niedersachsen,276,0.3,10.0
+Wildau,Brandenburg,1060,0.29,10.0
+Weischlitz,Sachsen,307,0.28,18.0
+Hildesheim,Niedersachsen,1003,0.27,19.0
+Ulm,Baden-Württemberg,2172,0.27,83.0
+Dessau-Roßlau,Sachsen-Anhalt,897,0.27,36.0
+Reinhardsdorf-Schöna,Sachsen,321,0.26,11.0
+Eichwalde,Brandenburg,1211,0.26,14.0
+Bexbach,Saarland,573,0.26,14.0
+Alsfeld,Hessen,282,0.26,16.0
+Hof,Bayern,1114,0.25,19.0
+Halstenbek,Schleswig-Holstein,2963,0.25,20.0
+Lich,Hessen,289,0.25,11.0
+Freiberg am Neckar,Baden-Württemberg,681,0.25,14.0
+Bad Schwartau,Schleswig-Holstein,962,0.25,20.0
+Bremerhaven,Bremen,1349,0.24,26.0
+Scharbeutz,Schleswig-Holstein,456,0.24,24.0
+Rottenbach,Thüringen,358,0.24,29.0
+Althegnenberg,Bayern,365,0.23,40.0
+Calbe (Saale),Sachsen-Anhalt,353,0.23,20.0
+Braunschweig,Niedersachsen,1436,0.22,33.0
+Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,275,0.21,5.0
+Ober Roden / Rödermark,Hessen,766,0.21,13.0
+Erbach (Württ),Baden-Württemberg,449,0.19,10.0
+Ratingen-Hösel,Nordrhein-Westfalen,721,0.19,9.0
+Hameln,Niedersachsen,680,0.17,28.0
+Quedlinburg,Sachsen-Anhalt,260,0.17,6.0
+Ratingen,Nordrhein-Westfalen,740,0.17,11.0
+Glauburg,Hessen,388,0.17,23.0
+Garmisch-Partenkirchen,Bayern,419,0.15,14.0
+Apolda,Thüringen,360,0.15,10.0
+Ellwangen,Baden-Württemberg,201,0.15,9.0
+Frankfurt (Oder),Brandenburg,716,0.15,20.0
+Lindau-Reutin,Bayern,864,0.15,10.0
+Hannover-Anderten,Niedersachsen,568,0.14,9.0
+Oberhaid,Bayern,295,0.14,15.0
+Borna,Sachsen,650,0.12,16.0
+Timmendorfer Strand,Schleswig-Holstein,414,0.12,18.0
+Seesen,Niedersachsen,501,0.12,9.0
+Wernshausen,Thüringen,370,0.1,15.0
+Sehnde,Niedersachsen,336,0.1,9.0
+Fröttstädt,Thüringen,424,0.1,9.0
+Reinbek,Schleswig-Holstein,1046,0.09,13.0
+Pforzheim,Baden-Württemberg,1093,0.08,15.0
+Meiningen,Thüringen,410,0.07,9.0
+Eisenach,Thüringen,453,0.07,16.0
+Deggendorf,Bayern,324,0.07,5.0
+Gottmadingen,Baden-Württemberg,533,0.06,9.0
+Bad Neuenahr,Rheinland-Pfalz,369,0.05,3.0
+Wohltorf,Schleswig-Holstein,893,0.05,13.0
+Körle,Hessen,461,0.04,6.0
+Friedberg,Bayern,588,0.04,10.0
+Uelzen,Niedersachsen,612,0.03,16.0
+Wickede ,Nordrhein-Westfalen,470,0.03,4.0
+Arnsberg,Nordrhein-Westfalen,969,0.03,5.0
+Merklingen,Baden-Württemberg,270,0.03,4.0
+Wiesthal,Bayern,228,0.02,2.0
+Fröndenberg (Ruhr),Nordrhein-Westfalen,971,0.01,3.0
+Göttingen,Niedersachsen,766,0.01,2.0
+Saalfeld (Saale),Thüringen,635,0.01,2.0
+Bad Soden (Taunus),Hessen,554,0.0,0.0
+Wedel (Holst),Schleswig-Holstein,1099,0.0,0.0
+Aumühle,Schleswig-Holstein,543,0.0,0.0
+Kiel,Schleswig-Holstein,1136,0.0,0.0
+Hofgeismar-Hümme,Hessen,239,0.0,0.0
+Breisach,Baden-Württemberg,357,0.0,0.0
+Leipzig-Grünau,Sachsen,374,0.0,0.0
+Euskirchen,Nordrhein-Westfalen,1185,0.0,0.0
+Cuxhaven,Niedersachsen,258,0.0,0.0
+Berchtesgaden,Bayern,113,0.0,0.0
+Detmold,Nordrhein-Westfalen,361,0.0,0.0
+Passau,Bayern,255,0.0,0.0
+Wilhelmshaven,Niedersachsen,248,0.0,0.0
+Sylt/ OT Westerland  ,Schleswig-Holstein,234,0.0,0.0
+Teltow,Brandenburg,776,0.0,0.0
+Furth im Wald,Bayern,153,0.0,0.0
+Pirmasens,Rheinland-Pfalz,319,0.0,0.0
+Meerbusch,Nordrhein-Westfalen,937,0.0,0.0
+Flensburg,Schleswig-Holstein,281,0.0,0.0
+Herrsching,Bayern,397,0.0,0.0
+Limburg,Hessen,741,0.0,0.0
+Wismar,Mecklenburg-Vorpommern,265,0.0,0.0
+Gerolstein,Rheinland-Pfalz,394,0.0,0.0
+Altenberg,Sachsen,108,0.0,0.0
+Blankenburg (Harz),Sachsen-Anhalt,113,0.0,0.0
+Thale,Sachsen-Anhalt,130,0.0,0.0
+Bad Harzburg,Niedersachsen,367,0.0,0.0
+Kronberg (Taunus),Hessen,297,0.0,0.0
+Oberstdorf,Bayern,221,0.0,0.0
+Filderstadt,Baden-Württemberg,415,0.0,0.0
+Hoyerswerda,Sachsen,193,0.0,0.0
+Oberding,Bayern,1002,0.0,0.0
+Demmin,Mecklenburg-Vorpommern,236,0.0,0.0
+Schongau,Bayern,135,0.0,0.0
+Weil der Stadt,Baden-Württemberg,523,0.0,0.0
+Herten,Nordrhein-Westfalen,222,0.0,0.0
+Binz,Mecklenburg-Vorpommern,113,0.0,0.0
