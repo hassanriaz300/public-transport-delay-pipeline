@@ -1,0 +1,43 @@
+table delay_by_hour
+	lineageTag: 6787e608-6990-4532-a5fa-a39f9ea32613
+
+	column hour_of_day
+		dataType: int64
+		formatString: 0
+		lineageTag: c8f7d2ec-7420-4b99-a24d-128ecff494d3
+		summarizeBy: sum
+		sourceColumn: hour_of_day
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_records
+		dataType: int64
+		formatString: 0
+		lineageTag: 3d6cd017-79a9-4371-a9a3-6b2f19a38b8e
+		summarizeBy: sum
+		sourceColumn: total_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_arrival_delay
+		dataType: double
+		lineageTag: 33bc4711-a651-44d9-8ad0-6838b2e9c1e2
+		summarizeBy: sum
+		sourceColumn: avg_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition delay_by_hour = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hassa\Desktop\dashboard_data\delay_by_hour.csv"),[Delimiter=",", Columns=3, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"hour_of_day", Int64.Type}, {"total_records", Int64.Type}, {"avg_arrival_delay", type number}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

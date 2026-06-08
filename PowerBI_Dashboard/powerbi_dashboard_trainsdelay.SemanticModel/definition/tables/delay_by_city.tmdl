@@ -1,0 +1,59 @@
+table delay_by_city
+	lineageTag: e22aace5-b1e6-4984-829c-09db4e7c6263
+
+	column city
+		dataType: string
+		lineageTag: 85e80db2-20a0-4b14-90b7-632a243ea014
+		summarizeBy: none
+		sourceColumn: city
+
+		annotation SummarizationSetBy = Automatic
+
+	column state
+		dataType: string
+		lineageTag: 747be088-e5b6-4bd5-a2e0-42d8b02ff033
+		summarizeBy: none
+		sourceColumn: state
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_records
+		dataType: int64
+		formatString: 0
+		lineageTag: 1961f3c5-00d6-4073-9b79-6c6054c0f809
+		summarizeBy: sum
+		sourceColumn: total_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_arrival_delay
+		dataType: double
+		lineageTag: 6cfa23a5-e6a8-43e9-bdec-280bc4ee837b
+		summarizeBy: sum
+		sourceColumn: avg_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column max_arrival_delay
+		dataType: int64
+		formatString: 0
+		lineageTag: dd188690-9fc1-4a73-a696-5dcc9940cc2b
+		summarizeBy: sum
+		sourceColumn: max_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+	partition delay_by_city = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hassa\Desktop\dashboard_data\delay_by_city.csv"),[Delimiter=",", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"city", type text}, {"state", type text}, {"total_records", Int64.Type}, {"avg_arrival_delay", type number}, {"max_arrival_delay", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

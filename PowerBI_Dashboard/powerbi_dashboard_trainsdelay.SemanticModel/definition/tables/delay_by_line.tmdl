@@ -1,0 +1,51 @@
+table delay_by_line
+	lineageTag: 77e2a62d-12b2-49d2-80bb-af55844ae925
+
+	column line
+		dataType: string
+		lineageTag: c9812b84-5796-45d8-a8ca-d1c9c2661c36
+		summarizeBy: none
+		sourceColumn: line
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_records
+		dataType: int64
+		formatString: 0
+		lineageTag: 9183580a-0b47-4702-b9d6-97a4bb71a6b6
+		summarizeBy: none
+		sourceColumn: total_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_arrival_delay
+		dataType: double
+		lineageTag: 497d6706-44af-4da1-8d6c-78e1fadda5e3
+		summarizeBy: none
+		sourceColumn: avg_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column max_arrival_delay
+		dataType: int64
+		formatString: 0
+		lineageTag: 80748e6b-1885-493f-b59e-a46593e6c021
+		summarizeBy: none
+		sourceColumn: max_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+	partition delay_by_line = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hassa\Desktop\dashboard_data\delay_by_line.csv"),[Delimiter=",", Columns=4, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"line", type text}, {"total_records", Int64.Type}, {"avg_arrival_delay", type number}, {"max_arrival_delay", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

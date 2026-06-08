@@ -1,0 +1,24 @@
+relationship 73fa2dd4-b20c-405e-8d91-9a26c6da53c1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: kpi_summary.start_date
+	toColumn: LocalDateTable_4241eb91-f938-4c4b-a275-1f894a8d610b.Date
+
+relationship 7c80eb66-2394-4914-8b7a-d54ef095fc3f
+	joinOnDateBehavior: datePartOnly
+	fromColumn: kpi_summary.end_date
+	toColumn: LocalDateTable_70280878-06bf-4bf7-bcac-90bae928f2de.Date
+
+relationship b90b87d8-51db-4850-8c75-034db57b9319
+	joinOnDateBehavior: datePartOnly
+	fromColumn: delay_by_line_and_date.travel_date
+	toColumn: LocalDateTable_86c3c631-ee68-419a-b11e-0b94969a8299.Date
+
+relationship AutoDetected_4a515935-a47c-47d7-9073-934b4476e959
+	fromColumn: delay_by_line_and_date.line
+	toColumn: delay_by_line.line
+
+relationship 6c1e6952-424f-4987-9249-467bdc93633b
+	joinOnDateBehavior: datePartOnly
+	fromColumn: delay_by_date.travel_date
+	toColumn: LocalDateTable_03cc7fb1-c21d-42f6-8c4d-04b00bc56269.Date
+

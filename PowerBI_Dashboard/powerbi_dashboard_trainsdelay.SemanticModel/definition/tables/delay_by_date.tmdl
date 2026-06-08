@@ -1,0 +1,59 @@
+table delay_by_date
+	lineageTag: ad444540-9bcf-4a31-b491-a6b183423e96
+
+	column travel_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: e257afc4-c97f-4f0d-a063-953b6e543a76
+		summarizeBy: none
+		sourceColumn: travel_date
+
+		variation Variation
+			isDefault
+			relationship: 6c1e6952-424f-4987-9249-467bdc93633b
+			defaultHierarchy: LocalDateTable_03cc7fb1-c21d-42f6-8c4d-04b00bc56269.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column total_records
+		dataType: int64
+		formatString: 0
+		lineageTag: 1a02e126-a259-45d7-9025-311fedf6e9aa
+		summarizeBy: sum
+		sourceColumn: total_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_arrival_delay
+		dataType: double
+		lineageTag: 2c6ac8f3-e077-4cf8-b40f-8bc090e54bf2
+		summarizeBy: sum
+		sourceColumn: avg_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column max_arrival_delay
+		dataType: int64
+		formatString: 0
+		lineageTag: 268e3be2-b6ee-4d7c-ba11-e408fc8d1a17
+		summarizeBy: sum
+		sourceColumn: max_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+	partition delay_by_date = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hassa\Desktop\dashboard_data\delay_by_date.csv"),[Delimiter=",", Columns=4, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"travel_date", type date}, {"total_records", Int64.Type}, {"avg_arrival_delay", type number}, {"max_arrival_delay", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

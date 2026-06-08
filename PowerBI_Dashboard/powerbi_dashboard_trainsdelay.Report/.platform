@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "powerbi_dashboard_trainsdelay"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "89e4ef63-f53d-4a2f-9bb0-5f4a5ec74ae0"
+  }
+}

@@ -1,0 +1,84 @@
+table kpi_summary
+	lineageTag: f9861403-668e-4ec6-8f5e-d028ff8044b8
+
+	column total_records
+		dataType: int64
+		formatString: 0
+		lineageTag: 73366ee0-30d9-49d1-8b3f-371e1240cb96
+		summarizeBy: sum
+		sourceColumn: total_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_arrival_delay
+		dataType: double
+		lineageTag: c5c32153-108c-4d55-8445-7c819aa5d66f
+		summarizeBy: sum
+		sourceColumn: avg_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column min_arrival_delay
+		dataType: int64
+		formatString: 0
+		lineageTag: 14998731-6147-4560-81dc-3324069544c6
+		summarizeBy: sum
+		sourceColumn: min_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+	column max_arrival_delay
+		dataType: int64
+		formatString: 0
+		lineageTag: c1875359-789f-42f2-9b9c-3b4c8215830f
+		summarizeBy: sum
+		sourceColumn: max_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+	column start_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 587c14d8-d1c3-4c14-846f-18554248c8af
+		summarizeBy: none
+		sourceColumn: start_date
+
+		variation Variation
+			isDefault
+			relationship: 73fa2dd4-b20c-405e-8d91-9a26c6da53c1
+			defaultHierarchy: LocalDateTable_4241eb91-f938-4c4b-a275-1f894a8d610b.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column end_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: a473837e-c669-40f1-9fed-9844f27b0fbc
+		summarizeBy: none
+		sourceColumn: end_date
+
+		variation Variation
+			isDefault
+			relationship: 7c80eb66-2394-4914-8b7a-d54ef095fc3f
+			defaultHierarchy: LocalDateTable_70280878-06bf-4bf7-bcac-90bae928f2de.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition kpi_summary = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hassa\Desktop\dashboard_data\kpi_summary.csv"),[Delimiter=",", Columns=6, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"total_records", Int64.Type}, {"avg_arrival_delay", type number}, {"min_arrival_delay", Int64.Type}, {"max_arrival_delay", Int64.Type}, {"start_date", type date}, {"end_date", type date}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

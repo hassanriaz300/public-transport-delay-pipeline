@@ -14,3 +14,10 @@ data/processed/*
 
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+
+PowerBI_Dashboard/**/*.csv
+PowerBI_Dashboard/.pbi/localSettings.json
+PowerBI_Dashboard/.pbi/cache.abf
+PowerBI_Dashboard/**/.pbi/**
+PowerBI_Dashboard/powerbi_dashboard_trainsdelay.SemanticModel/.pbi/**

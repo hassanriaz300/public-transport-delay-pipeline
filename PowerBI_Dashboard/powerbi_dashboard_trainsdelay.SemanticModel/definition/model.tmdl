@@ -1,0 +1,28 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-GB
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["kpi_summary","delay_by_line_and_date","delay_by_line","delay_by_hour","delay_by_date","delay_by_city"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table kpi_summary
+ref table DateTableTemplate_7ced4512-1c67-464e-b504-0eb493b9a54f
+ref table LocalDateTable_4241eb91-f938-4c4b-a275-1f894a8d610b
+ref table LocalDateTable_70280878-06bf-4bf7-bcac-90bae928f2de
+ref table delay_by_line_and_date
+ref table LocalDateTable_86c3c631-ee68-419a-b11e-0b94969a8299
+ref table delay_by_line
+ref table delay_by_hour
+ref table delay_by_date
+ref table LocalDateTable_03cc7fb1-c21d-42f6-8c4d-04b00bc56269
+ref table delay_by_city
+
+ref cultureInfo en-US
+

@@ -1,0 +1,67 @@
+table delay_by_line_and_date
+	lineageTag: 2d57a916-e7af-4fff-a874-9f631d644325
+
+	column travel_date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 42a20562-17be-448b-8871-708621fe735f
+		summarizeBy: none
+		sourceColumn: travel_date
+
+		variation Variation
+			isDefault
+			relationship: b90b87d8-51db-4850-8c75-034db57b9319
+			defaultHierarchy: LocalDateTable_86c3c631-ee68-419a-b11e-0b94969a8299.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column line
+		dataType: string
+		lineageTag: e646a68a-de89-405c-9a8f-6e9a005262f8
+		summarizeBy: none
+		sourceColumn: line
+
+		annotation SummarizationSetBy = Automatic
+
+	column total_records
+		dataType: int64
+		formatString: 0
+		lineageTag: fda069f8-d52e-4e44-a5b8-bdb1d9bd5798
+		summarizeBy: sum
+		sourceColumn: total_records
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_arrival_delay
+		dataType: double
+		lineageTag: 2e376c83-4f77-4c77-8794-dd78ec6dc159
+		summarizeBy: sum
+		sourceColumn: avg_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column max_arrival_delay
+		dataType: int64
+		formatString: 0
+		lineageTag: 47578a36-8feb-405c-b824-2082cb8f7de4
+		summarizeBy: sum
+		sourceColumn: max_arrival_delay
+
+		annotation SummarizationSetBy = Automatic
+
+	partition delay_by_line_and_date = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\hassa\Desktop\dashboard_data\delay_by_line_and_date.csv"),[Delimiter=",", Columns=5, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"travel_date", type date}, {"line", type text}, {"total_records", Int64.Type}, {"avg_arrival_delay", type number}, {"max_arrival_delay", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,83 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "name": "bdfd2c19eb9e9e3a1229",
+  "position": {
+    "x": 1248,
+    "y": 48,
+    "z": 21003,
+    "height": 128,
+    "width": 112,
+    "tabOrder": 16008
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "7 Days Data ",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "color": "#0b2a4a"
+                    }
+                  },
+                  {
+                    "value": "\t\t\t \t "
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "From"
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": " 8th July,2024 ",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "color": "#0b2a4a"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "To"
+                  },
+                  {
+                    "value": " ",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "color": "#0b2a4a"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "14th July, 2024",
+                    "textStyle": {
+                      "fontWeight": "bold",
+                      "color": "#0b2a4a"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
